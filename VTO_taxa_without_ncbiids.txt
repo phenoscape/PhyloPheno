@@ -1,0 +1,3114 @@
+VTO_name	VTO_id
+Trichomycterus anhanga	VTO_9046514
+Oreoglanis hypsiurus	VTO_0061118
+Oreoglanis jingdongensis	VTO_0061119
+Pareuchiloglanis macrotrema	VTO_0061110
+Pareuchiloglanis songdaensis	VTO_0061111
+Pareuchiloglanis abbreviatus	VTO_0061112
+Pareuchiloglanis poilanei	VTO_0061113
+Pareuchiloglanis tianquanensis	VTO_0061114
+Pareuchiloglanis nebulifer	VTO_0061115
+Pareuchiloglanis tamduongensis	VTO_0061116
+Oreoglanis siamensis	VTO_0061117
+Astrodoras asterifrons	VTO_0060789
+Aspidoras cf. pauciradiatus (Britto 2003)	VTO_0061353
+Tridens melanops	VTO_0061644
+Clarias sp. (Fink and Fink 1981)	VTO_0059670
+Nannoptopoma sternoptychum	VTO_0060385
+Clarias nebulosus	VTO_0059671
+Corydoras robineae	VTO_0035278
+Brachyplatystoma capapretum	VTO_0036393
+Bergiaria	VTO_0036395
+Physopyxis cristata	VTO_0060733
+Platydoras hancockii	VTO_0060732
+Platydoras sp. (Royero 1999)	VTO_0060731
+Platydoras armatulus	VTO_0060730
+Pseudancistrus guentheri	VTO_0060089
+Pseudancistrus papariae	VTO_0060088
+Doras higuchii	VTO_0060735
+Physopyxis ananas	VTO_0060734
+Pseudancistrus reus	VTO_0060085
+Pseudancistrus sp. (Armbruster 2004)	VTO_0060084
+Pseudancistrus yekuana	VTO_0060087
+Pseudancistrus kwinti	VTO_0060086
+Acestridium colombiense	VTO_0060081
+Dekeyseria niveata	VTO_0060080
+Acestridium triplax	VTO_0060083
+Acestridium dichromum	VTO_0060082
+Trichomycterus romeroi	VTO_0061547
+Chaca bankanensis	VTO_0035473
+Pimelodus argenteus	VTO_0036403
+Clarias pseudonieuhofii	VTO_0059677
+Astroblepus ventralis	VTO_0060670
+Pimelodus heraldoi	VTO_0036409
+Imparfinis borodini	VTO_0060996
+Chiloglanis polypogon	VTO_0061895
+Pyxiloricaria menezesi	VTO_0060429
+Pyxiloricaria	VTO_0060428
+Dentectus barbarmatus	VTO_0060427
+Dentectus	VTO_0060426
+Pterygoplichthys sp. (de Pinna 1993)	VTO_0060425
+Pterygoplichthys anisitsi	VTO_0060424
+Pterygoplichthys sp. (Vigliotta 2008)	VTO_0060423
+Pterygoplichthys sp. (Schaefer 1987)	VTO_0060422
+Pterygoplichthys undecimalis	VTO_0060421
+Pterygoplichthys xinguensis	VTO_0060420
+Glanidium leopardum	VTO_0060557
+Glanidium ribeiroi	VTO_0060556
+Nannoglanis	VTO_0060887
+Pseudotatia parva	VTO_0060554
+Pseudotatia	VTO_0060553
+Genus 11 (Bockmann 1998)	VTO_0060880
+Leptorhamdia marmorata	VTO_0060883
+Leptorhamdia	VTO_0060882
+Chiloglanis lamottei	VTO_0061891
+Genus 5 (Bockmann 1998)	VTO_0060889
+Nannoglanis fasciatus	VTO_0060888
+Glanidium bockmanni	VTO_0060559
+Glanidium cesarpintoi	VTO_0060558
+Astroblepus chimborazoi	VTO_0060654
+Hemibagrus hoevenii	VTO_0059393
+Ancistrus cryptophthalmus	VTO_0037285
+Astroblepus caquetae	VTO_0060655
+Astroblepus grixalvii	VTO_0060656
+Astroblepus fissidens	VTO_0060657
+Astroblepus cirratus	VTO_0060650
+Hypoptopoma sp. (Schaefer 1991)	VTO_0060303
+Astroblepus sp. (Armbruster 2004)	VTO_0060652
+Hypoptopoma sp. (Schaefer 1987)	VTO_0060301
+Erethistoides ascita	VTO_0061061
+Phenacorhamdia unifasciata	VTO_0060959
+Phenacorhamdia macarenensis	VTO_0060958
+Phenacorhamdia hoehnei	VTO_0060953
+Phenacorhamdia tenebrosa	VTO_0060952
+Phenacorhamdia somnians	VTO_0060951
+Phenacorhamdia anisura	VTO_0060950
+Phenacorhamdia sp. B (Bockmann 1998)	VTO_0060957
+Phenacorhamdia sp. A (Bockmann 1998)	VTO_0060956
+Phenacorhamdia provenzanoi	VTO_0060955
+Phenacorhamdia nigrolineata	VTO_0060954
+Megalancistrus parananus	VTO_0037344
+Clarias dhonti	VTO_0059678
+Pterocryptis indicus	VTO_0062003
+Pterocryptis burmanensis	VTO_0062002
+Pterocryptis cucphuongensis	VTO_0062001
+Pterocryptis berdmorei	VTO_0062000
+Silurichthys sanguineus	VTO_0062007
+Silurichthys gibbiceps	VTO_0062006
+Pterocryptis wynaadensis	VTO_0062005
+Pterocryptis taytayensis	VTO_0062004
+Silurichthys indragiriensis	VTO_0062009
+Silurichthys sp. (Bornbusch 1991)	VTO_0062008
+Mystus chinensis	VTO_0059478
+Mystus elongatus	VTO_0059479
+Mystus keletius	VTO_0059474
+Mystus dibrugarensis	VTO_0059475
+Mystus pelusius	VTO_0059476
+Mystus albolineatus	VTO_0059477
+Mystus falcarius	VTO_0059470
+Mystus sp. (Kailola 2004)	VTO_0059471
+Mystus seengtee	VTO_0059472
+Mystus armiger	VTO_0059473
+Oloplotosus luteus	VTO_0060445
+Chrysichthys sianenna	VTO_0059247
+Aspistor hardenbergi	VTO_0059710
+Neoarius coatesi	VTO_0059713
+Schilbe congensis	VTO_0061473
+Schilbe bocagii	VTO_0061472
+Eutropius sp. (de Pinna 1993)	VTO_0061471
+Schilbe zairensis	VTO_0061470
+Ailiichthys	VTO_0061477
+Parailia spiniserrata	VTO_0061476
+Parailia somalensis	VTO_0061475
+Acentronichthys	VTO_0035628
+Ariopsis latirostris	VTO_0059715
+Irvineia	VTO_0061479
+Ailiichthys punctata	VTO_0061478
+Pimelodella meeki	VTO_0035622
+Imparfinis hollandi	VTO_0060992
+Neoarius velutinus	VTO_0059717
+Chrysichthys sharpii	VTO_0059240
+Bathybagrus graueri	VTO_0059276
+Heteropneustes longipectoralis	VTO_0059277
+Gnathobagrus	VTO_0059274
+Gnathobagrus depressus	VTO_0059275
+Amarginops platus	VTO_0059272
+Amarginops hildae	VTO_0059273
+Phyllonemus brichardi	VTO_0059270
+Brachysynodontis	VTO_0061878
+Mochokus brevis	VTO_0061877
+Mochokus niloticus	VTO_0061876
+Mochokus	VTO_0061875
+Atopochilus chabanaudi	VTO_0061874
+Atopochilus macrocephalus	VTO_0061873
+Atopochilus mandevillei	VTO_0061872
+Heteropneustes kemratensis	VTO_0059278
+Heteropneustes sp. (de Pinna 1993)	VTO_0059279
+Pseudobunocephalus quadriradiatus	VTO_0059323
+Pseudobunocephalus lundbergi	VTO_0059324
+Oloplotosus torobo	VTO_0060446
+Leiocassis longispinalis	VTO_0059497
+Trichomycterus igobi	VTO_0061617
+Trichomycterus spelaeus	VTO_0061616
+Trichomycterus jequitinhonhae	VTO_0061615
+Trichomycterus riojanus	VTO_0061614
+Trichomycterus latistriatus	VTO_0061613
+Trichomycterus vermiculatus	VTO_0061612
+Trichomycterus nigricans	VTO_0061611
+Trichomycterus celsae	VTO_0061610
+Microglanis nigripinnis	VTO_0059290
+Microglanis secundus	VTO_0059291
+Microglanis parahybae	VTO_0059292
+Microglanis malabarbai	VTO_0059293
+Microglanis ater	VTO_0059294
+Microglanis pellopterygius	VTO_0059295
+Trichomycterus uisae	VTO_0061619
+Trichomycterus vittatus	VTO_0061618
+Trichomycterus longibarbatus	VTO_0061587
+Trichomycterus sandovali	VTO_0061586
+Trichomycterus therma	VTO_0061585
+Trichomycterus taeniops	VTO_0061584
+Trichomycterus quechuorum	VTO_0061583
+Trichomycterus maracaiboensis	VTO_0061582
+Trichomycterus oroyae	VTO_0061581
+Trichomycterus gabrieli	VTO_0061580
+Corydoras melanotaenia	VTO_0035285
+Corydoras multimaculatus	VTO_0035284
+Corydoras maculifer	VTO_0035287
+Corydoras melini	VTO_0035286
+Corydoras pygmaeus	VTO_0035281
+Leiocassis collinus	VTO_0059498
+Corydoras pulcher	VTO_0035283
+Trichomycterus duellmani	VTO_0061588
+Auchenoglanididae	VTO_0061434
+Bagrus meridionalis	VTO_0059430
+Megalonema platycephalum	VTO_0036365
+Chiloglanis carnosus	VTO_0061903
+Chiloglanis microps	VTO_0061902
+Malapterurus baarbatus	VTO_0061273
+Malapterurus minjiriya	VTO_0061272
+Chiloglanis batesii	VTO_0061907
+Chiloglanis pretoriae	VTO_0061906
+Paradoxoglanis caudivittatus	VTO_0061277
+Chiloglanis fasciatus	VTO_0061904
+Akysis sp. 2 (Chen 1994)	VTO_0061279
+Paradoxoglanis cryptus	VTO_0061278
+Chiloglanis lukugae	VTO_0061909
+Chiloglanis elisabethianus	VTO_0061908
+Encheloclarias prolatus	VTO_0059618
+Encheloclarias velatus	VTO_0059619
+Glyptothorax gracilis	VTO_0061059
+Glyptothorax ketambe	VTO_0061058
+Rhizosomichthys	VTO_0061729
+Stegophilus panzeri	VTO_0061728
+Synodontis centralis	VTO_0061766
+Glyptothorax filicatus	VTO_0061051
+Glyptothorax punjabensis	VTO_0061050
+Paravandellia phaneronema	VTO_0061721
+Ochmacanthus orinoco	VTO_0061720
+Glyptothorax cous	VTO_0061055
+Glyptothorax naziri	VTO_0061054
+Stegophilus sp. (Schaefer 1990)	VTO_0061725
+Stegophilus	VTO_0061724
+Akysis pulvinatus	VTO_0061298
+Loricariichthys brunneus	VTO_0059857
+Akysis heterurus	VTO_0061293
+Synodontis ngouniensis	VTO_0061763
+Akysis maculipinnis	VTO_0061291
+Loricariichthys acutus	VTO_0059859
+Akysis ephippifer	VTO_0061297
+Hypostomus topavae	VTO_0036897
+Gagata sp. (de Pinna 1993)	VTO_0061092
+Schultzichthys bondi	VTO_0061640
+Euristhmus lepturus	VTO_0060442
+Plectrochilus machadoi	VTO_0061641
+Plectrochilus wieneri	VTO_0061642
+Plectrochilus diabolicus	VTO_0061643
+Oxydoras sifontesi	VTO_0036651
+Oreoglanis tenuicauda	VTO_0061129
+Synodontis macropunctata	VTO_0061769
+Oreoglanis frenatus	VTO_0061124
+Oreoglanis suraswadii	VTO_0061123
+Tridensimilis brevis	VTO_0061651
+Hisonotus notatus	VTO_0036937
+Kryptopterus baramensis	VTO_0061980
+Harttia rhombocephala	VTO_0060101
+Tridentopsis cahuali	VTO_0061657
+Euchiloglanis phongthoensis	VTO_0061096
+Pangasius mahakamensis	VTO_0060720
+Austroglanididae	VTO_0060721
+Pseudancistrus sp. gold spot (Armbruster 2004)	VTO_0060090
+Phreatobius sanguijuela	VTO_0060723
+Phreatobius sp. 1 (de Pinna 1993)	VTO_0060724
+Phreatobius sp. 2 (de Pinna 1993)	VTO_0060725
+Harttia longipinna	VTO_0060094
+Harttia sp. (Armbruster 2004)	VTO_0060095
+Opsodoras boulengeri	VTO_0060728
+Platydoras brachylecis	VTO_0060729
+Harttia punctata	VTO_0060098
+Harttia duriventris	VTO_0060099
+Tridentopsis sp. (Schaefer 1990)	VTO_0061656
+Chaca burmensis	VTO_0060722
+Tridentopsis tocantinsi	VTO_0061655
+Euristhmus nudiceps	VTO_0060438
+Euristhmus microphthalmus	VTO_0060439
+Clupisoma longianalis	VTO_0060434
+Clupisoma montana	VTO_0060435
+Clupisoma naziri	VTO_0060436
+Euristhmus	VTO_0060437
+Silonia childreni	VTO_0060430
+Clupisoma bastari	VTO_0060431
+Clupisoma roosae	VTO_0060432
+Clupisoma nujiangense	VTO_0060433
+Centromochlus musaica	VTO_0060544
+Centromochlus simplex	VTO_0060545
+Centromochlus romani	VTO_0060546
+Centromochlus sp. (Rio Negro) (Royero 1999)	VTO_0060547
+Tatia nigra	VTO_0060540
+Centromochlus megalops	VTO_0060541
+Centromochlus schultzi	VTO_0060542
+Centromochlus n. sp. (Royero 1999)	VTO_0060543
+Centromochlus reticulatus	VTO_0060548
+Centromochlus macracanthus	VTO_0060549
+Tridentopsis pearsoni	VTO_0061654
+Astroblepus festae	VTO_0060667
+Doras phlyzakion	VTO_0060736
+Trichomycterus maracaya	VTO_0036500
+Listrura nematopteryx	VTO_0036507
+Corydoras bifasciatus	VTO_0061383
+Listrura	VTO_0036505
+Ancistrus galani	VTO_0059929
+Hemiancistrus itacua	VTO_0059885
+Doras zuanoni	VTO_0060739
+Corydoras baderi	VTO_0061384
+Doras eigenmanni	VTO_0060738
+Hypostomus meleagris	VTO_0060183
+Corydoras pantanalensis	VTO_0035272
+Corydoras ortegai	VTO_0061386
+Phenacorhamdia sp. C (Bockmann 1998)	VTO_0060948
+Corydoras barbatus sp. I (Britto 2003)	VTO_0061389
+Liobagrus aequilabris	VTO_0035572
+Clarias cataractus	VTO_0059664
+Nemuroglanis mariai	VTO_0060940
+Nemuroglanis lanceolatus	VTO_0060941
+Genus 6 (Bockmann 1998)	VTO_0060942
+Genus 6 sp. (Bockmann 1998)	VTO_0060943
+Phenacorhamdia	VTO_0060944
+Phenacorhamdia sp. D (Bockmann 1998)	VTO_0060945
+Phenacorhamdia tenuis	VTO_0060946
+Phenacorhamdia taphorni	VTO_0060947
+Imparfinis mishky	VTO_0060998
+Ancistrus centrolepis	VTO_0059921
+Ancistrus nudiceps	VTO_0059927
+Rhamdia muelleri	VTO_0060898
+Rhamdia parryi	VTO_0060899
+Acentronichthys sp. n. B (Bockmann 1998)	VTO_0060892
+Rhamdia reddelli	VTO_0060893
+Genus 5 sp. B (Bockmann 1998)	VTO_0060890
+Genus 5 sp. A (Bockmann 1998)	VTO_0060891
+Rhamdia parvus	VTO_0060896
+Rhamdia guasarensis	VTO_0060897
+Rhamdia jequitinhonha	VTO_0060894
+Rhamdia schomburgkii	VTO_0060895
+Silurichthys citatus	VTO_0062010
+Silurichthys hasseltii	VTO_0062011
+Silurichthys marmoratus	VTO_0062012
+Silurichthys phaiosoma	VTO_0062013
+Phalacronotus parvanalis	VTO_0062014
+Phalacronotus micronema	VTO_0062015
+Phalacronotus micronemus	VTO_0062016
+Wallago micropogon	VTO_0062017
+Wallago maculatus	VTO_0062018
+Wallago hexanema	VTO_0062019
+Pseudomystus heokhuii	VTO_0059440
+Pseudomystus vaillanti	VTO_0059443
+Pseudomystus rugosus	VTO_0059442
+Pseudomystus moeschii	VTO_0059445
+Pseudomystus funebris	VTO_0059444
+Pseudomystus flavipinnis	VTO_0059447
+Pseudomystus stenogrammus	VTO_0059446
+Pseudomystus breviceps	VTO_0059449
+Pseudomystus bomboides	VTO_0059448
+Siluroidei	VTO_9018177
+Claibornichthys troelli	VTO_9018173
+Clarias engelseni	VTO_0059667
+Claibornichthys	VTO_9018179
+Imparfinis hasemani	VTO_0060993
+Schilbe marmoratus	VTO_0061460
+Schilbe multitaeniatus	VTO_0061461
+Schilbe durinii	VTO_0061462
+Schilbe moebiusii	VTO_0061463
+Schilbe mandibularis	VTO_0061465
+Schilbe tumbanus	VTO_0061466
+Schilbe uranoscopus	VTO_0061467
+Schilbe micropogon	VTO_0061468
+Schilbe laticeps	VTO_0061469
+Gladioglanis	VTO_0035636
+Gladioglanis machadoi	VTO_0035637
+Sisor torosus	VTO_0061167
+Atopodontus adriaensi	VTO_0061868
+Atopochilus christyi	VTO_0061869
+Microsynodontis notata	VTO_0061864
+Microsynodontis christyi	VTO_0061865
+Microsynodontis nasutus	VTO_0061866
+Atopodontus	VTO_0061867
+Microsynodontis hirsuta	VTO_0061860
+Microsynodontis polli	VTO_0061861
+Microsynodontis sp. (Vigliotta 2008)	VTO_0061862
+Microsynodontis laevigata	VTO_0061863
+Aguarunichthys tocantinsensis	VTO_0059597
+Aguarunichthys torosus	VTO_0059596
+Pimelodus albofasciatus	VTO_0059595
+Pimelodus atrobrunneus	VTO_0059594
+Pimelodus microstoma	VTO_0059593
+Pimelodus mysteriosus	VTO_0059592
+Pimelodus stewarti	VTO_0059591
+Pimelodus garciabarrigai	VTO_0059590
+Bagropsis reinhardti	VTO_0059599
+Bagropsis	VTO_0059598
+Trichomycterus chapmani	VTO_0061604
+Trichomycterus mboycy	VTO_0061605
+Parotocinclus doceanus	VTO_0059911
+Trichomycterus caliensis	VTO_0061607
+Trichomycterus alternatus	VTO_0061600
+Trichomycterus banneaui	VTO_0061601
+Trichomycterus taenia	VTO_0061602
+Trichomycterus transandianus	VTO_0061603
+Ancistrus tombador	VTO_0059919
+Ancistrus chagresi	VTO_0059918
+Trichomycterus dispar	VTO_0061608
+Trichomycterus aguarague	VTO_0061609
+Rineloricaria malabarbai	VTO_0059829
+Trichomycterus itacarambiensis	VTO_0061594
+Trichomycterus punctatissimus	VTO_0061595
+Trichomycterus caipora	VTO_0061596
+Trichomycterus spilosoma	VTO_0061597
+Trichomycterus dorsostriatum	VTO_0061590
+Trichomycterus alterus	VTO_0061591
+Trichomycterus trefauti	VTO_0061592
+Trichomycterus albinotatus	VTO_0061593
+Corydoras napoensis	VTO_0035298
+Corydoras griseus	VTO_0035299
+Trichomycterus triguttatus	VTO_0061598
+Trichomycterus catamarcensis	VTO_0061599
+Gymnallabes nops	VTO_0059629
+Xenoclarias holobranchus	VTO_0059628
+Cathorops raredonae	VTO_0035703
+Schilbidae	VTO_0061453
+Pterodoras sp. (Kailola 2004)	VTO_0060747
+Encheloclarias curtisoma	VTO_0059621
+Encheloclarias kelioides	VTO_0059620
+Horaglanis	VTO_0059623
+Encheloclarias baculum	VTO_0059622
+Horaglanis alikunhii	VTO_0059625
+Horaglanis krishnai	VTO_0059624
+Xenoclarias eupogon	VTO_0059627
+Xenoclarias	VTO_0059626
+Chiloglanis voltae	VTO_0061910
+Malapterurus cavalliensis	VTO_0061267
+Neotropius khavalchor	VTO_0061264
+Paraloricaria agastor	VTO_0060033
+Eutropiichthys britzi	VTO_0061262
+Neotropius acutirostris	VTO_0061263
+Chiloglanis polyodon	VTO_0061916
+Chiloglanis anoterus	VTO_0061917
+Chiloglanis sp. C (Vigliotta 2008)	VTO_0061918
+Centrodoras sp. (Vigliotta 2008)	VTO_0060742
+Malapterurus shirensis	VTO_0061268
+Malapterurus punctatus	VTO_0061269
+Conorhynchidae	VTO_0061738
+Nahangbagrus	VTO_0061739
+Hexanematichthys mastersi	VTO_0059741
+Centrodoras brachiatus	VTO_0060740
+Glyptothorax kudremukhensis	VTO_0061048
+Glyptothorax alaknandi	VTO_0061049
+Glyptothorax saisii	VTO_0061046
+Glyptothorax coracinus	VTO_0061047
+Microcambeva ribeirae	VTO_0061732
+Microcambeva barbata	VTO_0061733
+Copionodon	VTO_0061734
+Glyptothorax silviae	VTO_0061043
+Copionodon orthiocarinatus	VTO_0061736
+Glyptothorax madraspatanus	VTO_0061041
+Rineloricaria aequalicuspis	VTO_0059826
+Rineloricaria rupestris	VTO_0059823
+Rineloricaria thrissoceps	VTO_0059822
+Fajumia schweinfurthi	VTO_9001162
+Akysis galeatus	VTO_0061281
+Akysis fuliginatus	VTO_0061282
+Akysis recavus	VTO_0061283
+Socnopaea grandis	VTO_9001164
+Rineloricaria sneiderni	VTO_0059828
+Corydoras bertoni	VTO_0061391
+Leptorhamdia sp. (Bockmann 1998)	VTO_0060884
+Glanidium albescens	VTO_0060555
+Oreoglanis vicinus	VTO_0061132
+Oreoglanis setiger	VTO_0061133
+Oreoglanis nakasathiani	VTO_0061130
+Leptorhamdia schultzi	VTO_0060886
+Nangra bucculenta	VTO_0061136
+Nangra robusta	VTO_0061137
+Oreoglanis pumatensis	VTO_0061134
+Nangra ornata	VTO_0061135
+Genus 11 sp. (Bockmann 1998)	VTO_0060881
+Hara filamentosus	VTO_0061138
+Hara longissima	VTO_0061139
+Centromochlus punctatus	VTO_0060552
+Centromochlus altae	VTO_0060551
+Centromochlus concolor	VTO_0060550
+Hypostomus wuchereri	VTO_0060250
+Hypostomus brevicauda	VTO_0060251
+Hypostomus emarginatus 1 (Armbruster 2004)	VTO_0060252
+Hoplomyzon sp. (Friel 1994)	VTO_0059351
+Hypostomus eptingi	VTO_0060253
+Bagrichthys sp. 1 (de Pinna 1993)	VTO_0059422
+Hypostomus hermanni	VTO_0060254
+Bagrichthys obscurus	VTO_0059421
+Hypostomus angipinnatus	VTO_0060255
+Noturus fasciatus	VTO_0036262
+Bagrus lubosicus	VTO_0059427
+Hypostomus piratatu	VTO_0060257
+Bagrus urostigma	VTO_0059426
+Corydoras boesemani	VTO_0035250
+Bagrus degeni	VTO_0059425
+Corydoras condiscipulus	VTO_0061395
+Pangasius tubbi	VTO_0060715
+Pangasius humeralis	VTO_0060714
+Pangasius myanmar	VTO_0060717
+Pangasius micronema	VTO_0060716
+Pangasius sabahensis	VTO_0060711
+Pangasius rheophilus	VTO_0060710
+Pangasius nieuwenhuisii	VTO_0060713
+Pangasius lithostoma	VTO_0060712
+Pangasius kinabatanganensis	VTO_0060719
+Pangasius sp. (de Pinna 1993)	VTO_0060718
+Cteniloricaria	VTO_0037114
+Reganella sp. (Britto 2003)	VTO_0060391
+Reganella depressa	VTO_0060392
+Crossoloricaria cephalaspis	VTO_0060396
+Crossoloricaria rhami	VTO_0060399
+Crossoloricaria variegata	VTO_0060398
+Leptoancistrus	VTO_0060153
+Schizolecis sp. (Britto 2003)	VTO_0060152
+Pseudohemiodon lamina	VTO_0060403
+Pseudohemiodon apithanos	VTO_0060402
+Hypostomus emarginatus 2 (Armbruster 2004)	VTO_0060157
+Hypostomus vaillanti	VTO_0060156
+Leptoancistrus canensis	VTO_0060155
+Leptoancistrus cordobensis	VTO_0060154
+Rhadinoloricaria macromystax	VTO_0060409
+Rhadinoloricaria	VTO_0060408
+Hypostomus hemicochliodon	VTO_0060159
+Hypostomus corantijni	VTO_0060158
+Hisonotus leucophrys	VTO_0036941
+Spatuloricaria fimbriata	VTO_0060379
+Spatuloricaria gymnogaster	VTO_0060378
+Otocinclus mimulus	VTO_0060373
+Otocinclus hasemani	VTO_0060372
+Otocinclus tapirape	VTO_0060371
+Otocinclus huaorani	VTO_0060370
+Spatuloricaria evansii	VTO_0060377
+Spatuloricaria caquetae	VTO_0060376
+Spatuloricaria lagoichthys	VTO_0060375
+Otocinclus mura	VTO_0060374
+Pseudobagarius baramensis	VTO_0061326
+Centromochlus marthae	VTO_9046537
+Corumbataia britskii	VTO_0037024
+Parotocinclus bidentatus	VTO_0037021
+Chrysichthys laticeps	VTO_0059244
+Leptoglanis bouilloni	VTO_0061231
+Doras fimbriatus	VTO_0060737
+Clarias nigromarmoratus	VTO_0059660
+Brachyglanis phalacra	VTO_0060979
+Brachyglanis frenatus	VTO_0060978
+Brachyglanis	VTO_0060975
+Genus 2 sp. A (Bockmann 1998)	VTO_0060974
+Brachyglanis magoi	VTO_0060977
+Brachyglanis microphthalmus	VTO_0060976
+Genus 7 sp. (Bockmann 1998)	VTO_0060971
+Genus 7 (Bockmann 1998)	VTO_0060970
+Genus 2 sp. B (Bockmann 1998)	VTO_0060973
+Genus 2 (Bockmann 1998)	VTO_0060972
+Pseudohemiodon amazonum	VTO_0060406
+Zaireichthys zonatus	VTO_0061206
+Ageneiosus sp. (Soares-Porto 1998)	VTO_0060579
+Ageneiosus rondoni	VTO_0060578
+Ageneiosus sp. 1 (Mo 1991)	VTO_0060571
+Ageneiosus sp. 3 (Mo 1991)	VTO_0060570
+Ageneiosus marmoratus	VTO_0060573
+Ageneiosus cf. guianensis (Mo 1991)	VTO_0060572
+Ageneiosus sp. (de Pinna 1993)	VTO_0060575
+Ageneiosus polystictus	VTO_0060574
+Ageneiosus vittatus	VTO_0060577
+Ageneiosus uranophthalmus	VTO_0060576
+Rita macracanthus	VTO_0062025
+Rita chrysea	VTO_0062024
+Rita sp. (Kailola 2004)	VTO_0062027
+Rita sacerdotum	VTO_0062026
+Micronema cheveyi	VTO_0062021
+Wallago sp. (Mo 1991)	VTO_0062020
+Micronema hexapterus	VTO_0062023
+Micronema platypogon	VTO_0062022
+Hemibagrus hainanensis	VTO_0059389
+Rita kuturnee	VTO_0062028
+Pseudomystus inornatus	VTO_0059456
+Pseudomystus mahakamensis	VTO_0059457
+Pseudomystus sobrinus	VTO_0059454
+Pseudomystus robustus	VTO_0059455
+Pseudomystus leiacanthus	VTO_0059452
+Pseudomystus carnosus	VTO_0059453
+Pseudomystus myersi	VTO_0059450
+Pseudomystus fumosus	VTO_0059451
+Hyalobagrus ornatus	VTO_0059458
+Hyalobagrus leiacanthus	VTO_0059459
+Eopeyeria	VTO_9031900
+Coreobagrus brevicorpus	VTO_0059437
+Schilbe angolensis	VTO_0061455
+Schilbe nyongensis	VTO_0061454
+Schilbe grenfelli	VTO_0061456
+Parauchenoglanis altipinnis	VTO_0061451
+Parauchenoglanis ahli	VTO_0061450
+Amphilius maesii	VTO_0035607
+Parauchenoglanis monkei	VTO_0061452
+Schilbe yangambianus	VTO_0061459
+Schilbe djemeri	VTO_0061458
+Chrysichthys maurus	VTO_0059223
+Anodontiglanis	VTO_0060473
+Leiocassis hosii	VTO_0059487
+Euchilichthys astatodon	VTO_0061851
+Euchilichthys guentheri	VTO_0061850
+Acanthocleithron	VTO_0061853
+Euchilichthys sp. B (Vigliotta 2008)	VTO_0061852
+Microsynodontis lamberti	VTO_0061855
+Acanthocleithron chapini	VTO_0061854
+Microsynodontis vigilis	VTO_0061857
+Microsynodontis emarginata	VTO_0061856
+Microsynodontis armatus	VTO_0061859
+Microsynodontis nannoculus	VTO_0061858
+Pimelodus halisodous	VTO_0059584
+Pimelodus absconditus	VTO_0059585
+Pimelodus britskii	VTO_0059586
+Pimelodus navarroi	VTO_0059587
+Pimelodus paranaensis	VTO_0059580
+Pimelodus altissimus	VTO_0059581
+Pimelodus tetramerus	VTO_0059582
+Pimelodus pintado	VTO_0059583
+Pimelodus platicirris	VTO_0059588
+Pimelodus luciae	VTO_0059589
+Parotocinclus sp. (Schaefer 1991)	VTO_0059900
+Parotocinclus cearensis	VTO_0059901
+Parotocinclus cristatus	VTO_0059902
+Parotocinclus muriaensis	VTO_0059903
+Parotocinclus arandai	VTO_0059904
+Parotocinclus longirostris	VTO_0059905
+Parotocinclus planicauda	VTO_0059906
+Parotocinclus polyochrus	VTO_0059907
+Parotocinclus haroldoi	VTO_0059908
+Parotocinclus prata	VTO_0059909
+Clarias teijsmanni	VTO_0035513
+Clariallabes attemsi	VTO_0059638
+Clariallabes variabilis	VTO_0059639
+Clariallabes centralis	VTO_0059636
+Clariallabes manyangae	VTO_0059637
+Platyclarias	VTO_0059634
+Platyclarias machadoi	VTO_0059635
+Bathyclarias longibarbis	VTO_0059632
+Tanganikallabes sp. (de Pinna 1993)	VTO_0059633
+Bathyclarias rotundifrons	VTO_0059630
+Bathyclarias euryodon	VTO_0059631
+Chiloglanis rukwaensis	VTO_0061925
+Chandramara	VTO_0035190
+Chiloglanis sanagaensis	VTO_0061927
+Chiloglanis sp. A (Vigliotta 2008)	VTO_0061921
+Chiloglanis emarginatus	VTO_0061929
+Chiloglanis sardinhai	VTO_0061928
+Harttia loricariformis	VTO_0037081
+Vandellia sp. (Fink and Fink 1981)	VTO_0061709
+Vandellia beccarii	VTO_0061708
+Hypostomus tietensis	VTO_0060196
+Scleronema operculatum	VTO_0061705
+Paracanthopoma	VTO_0061706
+Silvinichthys bortayro	VTO_0061701
+Silvinichthys mendozensis	VTO_0061700
+Scleronema angustirostre	VTO_0061703
+Scleronema	VTO_0061702
+Rineloricaria eigenmanni	VTO_0059834
+Rineloricaria wolfei	VTO_0059835
+Rineloricaria castroi	VTO_0059836
+Rineloricaria pareiacantha	VTO_0059837
+Rineloricaria stellata	VTO_0059830
+Rineloricaria baliola	VTO_0059831
+Rineloricaria daraha	VTO_0059832
+Rineloricaria jubata	VTO_0059833
+Rineloricaria stewarti	VTO_0059838
+Rineloricaria magdalenae	VTO_0059839
+Hypostomus sp. (Britto 2003)	VTO_0060191
+Chiloglanis modjensis	VTO_0061924
+Hypostomus ericius	VTO_0060190
+Schultzichthys gracilis	VTO_0061639
+Schultzichthys	VTO_0061638
+Chiloglanis neumanni	VTO_0061926
+Trichomycterus bahianus	VTO_0061631
+Trichomycterus venulosus	VTO_0061630
+Trichomycterus knerii	VTO_0061633
+Trichomycterus ruitoquensis	VTO_0061632
+Trichomycterus boylei	VTO_0061635
+Trichomycterus jacupiranga	VTO_0061634
+Pseudostegophilus haemomyzon	VTO_0061637
+Trichomycteridae sp. (de Pinna 1993)	VTO_0061636
+Chiloglanis sp. E (Vigliotta 2008)	VTO_0061922
+Corymbophanes	VTO_0036853
+Pseudecheneis paucipunctata	VTO_0061147
+Pseudecheneis immaculata	VTO_0061146
+Glyptosternon reticulatum	VTO_0061145
+Glyptosternon malaisei	VTO_0061144
+Glyptosternon akhtari	VTO_0061143
+Hara spinulus	VTO_0061142
+Hara minuscula	VTO_0061141
+Hara koladynensis	VTO_0061140
+Hypostomus nematopterus	VTO_0060198
+Trichomycterus pantherinus	VTO_0061516
+Pseudecheneis paviei	VTO_0061149
+Pseudecheneis gracilis	VTO_0061148
+Trichomycterus brunoi	VTO_0061517
+Otocinclus xakriaba	VTO_0036981
+Trichomycterus lewi	VTO_0061511
+Trichomycterus mariamole	VTO_0061512
+Trichomycterus candidus	VTO_0061513
+Eutropiichthys salweenensis	VTO_0036211
+Scleronema minutum	VTO_0061704
+Trichomycterus sp. (Schaefer 1990)	VTO_0061534
+Paracanthopoma parva	VTO_0061707
+Kronichthys sp. (Schaefer 1987)	VTO_0060041
+Loricariichthys labialis	VTO_0059867
+Rineloricaria jaraguensis	VTO_0037101
+Neblinichthys	VTO_0060386
+Neblinichthys yaravi	VTO_0060387
+Spatuloricaria curvispina	VTO_0060384
+Spatuloricaria euacanthagenys	VTO_0060382
+Spatuloricaria phelpsi	VTO_0060383
+Spatuloricaria nudiventris	VTO_0060380
+Spatuloricaria atratoensis	VTO_0060381
+Neblinichthys roraima	VTO_0060388
+Neblinichthys pilosus	VTO_0060389
+Pterygoplichthys punctatus	VTO_0060416
+Liposarcus sp. (Friel 1994)	VTO_0060417
+Schilbe brevianalis	VTO_0061457
+Pterygoplichthys lituratus	VTO_0060415
+Metaloricaria nijsseni	VTO_0060412
+Loricariidae sp. (Mo 1991)	VTO_0060413
+Lithogenes valencia	VTO_0060410
+Lithogenes wahari	VTO_0060411
+Pareiorhaphis mutuca	VTO_0060148
+Pareiorhaphis cerosus	VTO_0060149
+Pterygoplichthys parnaibae	VTO_0060418
+Pterygoplichthys weberi	VTO_0060419
+Otocinclus bororo	VTO_0060368
+Otocinclus sp. (Schaefer 1987)	VTO_0060369
+Pseudopimelodus sp. 2 (Shibatta 1991)	VTO_0059287
+Pseudobagarius fuscus	VTO_0061332
+Farlowella vittata	VTO_0060360
+Farlowella hahni	VTO_0060361
+Farlowella smithi	VTO_0060362
+Pseudobagarius subtilis	VTO_0061333
+Otocinclus mariae	VTO_0060364
+Otocinclus macrospilus	VTO_0060365
+Otocinclus batmani	VTO_0060366
+Otocinclus caxarari	VTO_0060367
+Leptoglanis xenognathus	VTO_0035602
+Trichomycterus roigi	VTO_0061533
+Malapterurus occidentalis	VTO_0061276
+Trichomycterus taroba	VTO_0061510
+Pangasius kunyit	VTO_0060708
+Pangasius elongatus	VTO_0060709
+Corydoras potaroensis	VTO_0035267
+Astroblepus simonsii	VTO_0060702
+Astroblepus latidens	VTO_0060703
+Astroblepus frenatus	VTO_0060700
+Astroblepus eigenmanni	VTO_0060701
+Pangasius djambal	VTO_0060706
+Pangasius mekongensis	VTO_0060707
+Sinopangasius	VTO_0060704
+Sinopangasius semicultratus	VTO_0060705
+Imparfinis microps	VTO_0060990
+Rhamdioglanis transfasciatus	VTO_0060962
+Heptapterus bleekeri	VTO_0060963
+Rhamdioglanis	VTO_0060960
+Rhamdioglanis frenatus	VTO_0060961
+Heptapterus stewarti	VTO_0060966
+Heptapterus tapanahoniensis	VTO_0060967
+Heptapterus mustelinus	VTO_0060964
+Heptapterus ornaticeps	VTO_0060965
+Heptapterus fissipinnis	VTO_0060968
+Heptapterus multiradiatus	VTO_0060969
+Chaetostoma brevilabiatum	VTO_0060011
+Pimelodella cyanostigma	VTO_0060847
+Trachelyichthys n. sp 1 (Royero 1999)	VTO_0060568
+Trachelyichthys n. sp. 2 (Royero 1999)	VTO_0060569
+Trachelyichthys exilis	VTO_0060566
+Trachelyichthys decaradiatus	VTO_0060567
+Auchenipterichthys sp. (de Pinna 1993)	VTO_0060564
+Trachelyichthys	VTO_0060565
+Auchenipterichthys longimanus	VTO_0060562
+Auchenipterichthys punctatus	VTO_0060563
+Glanidium catharinensis	VTO_0060560
+Auchenipterichthys coracoideus	VTO_0060561
+Cetopsis parma	VTO_0060610
+Cetopsis umbrosa	VTO_0060611
+Corydoras sipaliwini	VTO_0061388
+Cetopsis oliveirai	VTO_0060613
+Cetopsis motatanensis	VTO_0060614
+Cetopsis baudoensis	VTO_0060615
+Cetopsis pearsoni	VTO_0060616
+Farlowella sp. (Britto 2003)	VTO_0060345
+Tetracamphilius clandestinus	VTO_0061226
+Clariallabes brevibarbis	VTO_0059649
+Cetopsidium sp. (de Pinna, Ferraris and Vari 2007)	VTO_0060626
+Arius dispar	VTO_0035811
+Corydoras treitlii	VTO_0035340
+Corydoras undulatus	VTO_0035344
+Amphilius rheophilus	VTO_0035613
+Amphilius atesuensis	VTO_0035610
+Corydoras zygatus	VTO_0035347
+Corydoras agassizii	VTO_0035266
+Astroblepus taczanowskii	VTO_0060646
+Pimelodella laticeps	VTO_0035618
+Rineloricaria maquinensis	VTO_0059820
+Clariallabes platyprosopos	VTO_0059641
+Synodontis khartoumensis	VTO_0061846
+Euchilichthys sp. A (Vigliotta 2008)	VTO_0061847
+Synodontis tessmanni	VTO_0061845
+Synodontis gobroni	VTO_0061842
+Synodontis pardalis	VTO_0061843
+Synodontis ansorgii	VTO_0061840
+Synodontis fuelleborni	VTO_0061841
+Euchilichthys royauxi	VTO_0061848
+Euchilichthys sp. C (Vigliotta 2008)	VTO_0061849
+Ancistrus maculatus	VTO_0059935
+Ancistrus spinosus	VTO_0059934
+Ancistrus reisi	VTO_0059931
+Ancistrus heterorhynchus	VTO_0059930
+Ancistrus occidentalis	VTO_0059933
+Ancistrus bodenhameri	VTO_0059932
+Dolichallabes microphthalmus	VTO_0035500
+Platyallabes	VTO_0035505
+Corydoras noelkempffi	VTO_0061398
+Pinniwallago kanpurensis	VTO_0061938
+Silurus duanensis	VTO_0061939
+Chiloglanis swierstrai	VTO_0061932
+Chiloglanis sp. F (Vigliotta 2008)	VTO_0061933
+Chiloglanis brevibarbis	VTO_0061930
+Chiloglanis deckenii	VTO_0061931
+Chiloglanis sp. B (Vigliotta 2008)	VTO_0061936
+Pinniwallago	VTO_0061937
+Chiloglanis niger	VTO_0061934
+Chiloglanis benuensis	VTO_0061935
+Xyliphius anachoretes	VTO_0059333
+Xyliphius lombarderoi	VTO_0059331
+Xyliphius lepturus	VTO_0059337
+Leiocassis macropterus	VTO_0059488
+Xyliphius kryptos	VTO_0059335
+Corymbophanes kaiei	VTO_0036854
+Mystus amemiyai	VTO_0059485
+Mystus impluviatus	VTO_0059484
+Ernstichthys	VTO_0059339
+Notoglanidium thomasi	VTO_0061441
+Parauchenoglanis buettikoferi	VTO_0061446
+Parauchenoglanis loennbergi	VTO_0061447
+Mystus guilio	VTO_0059483
+Parauchenoglanis punctatus	VTO_0061445
+Rineloricaria sanga	VTO_0059809
+Rineloricaria maacki	VTO_0059808
+Listrura camposi	VTO_0061710
+Listrura boticario	VTO_0061711
+Stauroglanis gouldingi	VTO_0061716
+Ochmacanthus batrachostomus	VTO_0061717
+Occidentarius	VTO_0035768
+Stauroglanis	VTO_0061715
+Rineloricaria hoehnei	VTO_0059801
+Rineloricaria heteroptera	VTO_0059800
+Rineloricaria nigricauda	VTO_0059805
+Rineloricaria longicauda	VTO_0059804
+Rineloricaria anitae	VTO_0059807
+Pseudobagarius kyphus	VTO_0061337
+Homodiaetus banguela	VTO_0061663
+Trichomycterus yuska	VTO_0061628
+Trichomycterus latidens	VTO_0061629
+Trichomycterus megantoni	VTO_0061626
+Trichomycterus castroi	VTO_0061627
+Trichomycterus unicolor	VTO_0061624
+Trichomycterus crassicaudatus	VTO_0061625
+Trichomycterus nigromaculatus	VTO_0061622
+Trichomycterus paquequerense	VTO_0061623
+Trichomycterus tenuis	VTO_0061620
+Trichomycterus belensis	VTO_0061621
+Rhinelepis	VTO_0036843
+Franciscodoras	VTO_0036662
+Pseudecheneis longipectoralis	VTO_0061154
+Pseudecheneis stenura	VTO_0061155
+Pseudecheneis sulcatoides	VTO_0061156
+Pseudecheneis suppaetula	VTO_0061157
+Pseudecheneis tchangi	VTO_0061150
+Pseudecheneis serracula	VTO_0061151
+Pseudecheneis sirenica	VTO_0061152
+Pseudecheneis eddsi	VTO_0061153
+Pseudecheneis sympelvica	VTO_0061158
+Pseudecheneis brachyurus	VTO_0061159
+Synodontis rukwaensis	VTO_0061767
+Phractocephalus acreornatus	VTO_9030538
+Neotropius	VTO_0036204
+Clupisoma prateri	VTO_0036209
+Trichomycterus striatus	VTO_0061520
+Helicophagus typus	VTO_0036449
+Trachelyopterus fisheri	VTO_0060515
+Hypostomus hemiurus	VTO_0060175
+Hypostomus carvalhoi	VTO_0060174
+Hypostomus laplatae	VTO_0060177
+Hypostomus sp. (Schaefer 1990)	VTO_0060176
+Hypostomus paucipunctatus	VTO_0060171
+Hypostomus saramaccensis	VTO_0060170
+Hypostomus commersonoides	VTO_0060173
+Hypostomus argus	VTO_0060172
+Corydoras araguaiaensis	VTO_0035387
+Hypostomus niceforoi	VTO_0060179
+Hypostomus macrophthalmus	VTO_0060178
+Paracetopsis esmeraldas	VTO_0060603
+Paracetopsis bleekeri	VTO_0060602
+Paracetopsis atahualpa	VTO_0060601
+Paracetopsis	VTO_0060600
+Cetopsis montana	VTO_0060607
+Cetopsis sarcodes	VTO_0060606
+Cetopsis sandrae	VTO_0060605
+Cetopsis othonops	VTO_0060604
+Farlowella paraguayensis	VTO_0060355
+Farlowella odontotumulus	VTO_0060354
+Cetopsis caiapo	VTO_0060609
+Cetopsis arcana	VTO_0060608
+Farlowella reticulata	VTO_0060351
+Farlowella platoryncus	VTO_0060350
+Farlowella colombiensis	VTO_0060353
+Farlowella taphorni	VTO_0060352
+Oxyropsis wrightiana	VTO_0037000
+Lampiella	VTO_0037003
+Lampiella gibbosa	VTO_0037004
+Squaliforma annae	VTO_0060288
+Squaliforma tenuicauda	VTO_0060287
+Squaliforma gomesi	VTO_0060286
+Squaliforma biseriata	VTO_0060285
+Squaliforma scopularia	VTO_0060283
+Squaliforma tenuis	VTO_0060282
+Squaliforma virescens	VTO_0060281
+Squaliforma horrida	VTO_0060280
+Hassar affinis	VTO_0060779
+Hassar wilderi	VTO_0060778
+Hassar orestis	VTO_0060777
+Scorpiodoras heckelii	VTO_0060776
+Scorpiodoras	VTO_0060775
+Anadoras insculptus	VTO_0060774
+Anadoras weddellii	VTO_0060773
+Anadoras regani	VTO_0060772
+Rhynchodoras castilloi	VTO_0060771
+Rhynchodoras xingui	VTO_0060770
+Trichomycterus guaraquessaba	VTO_0061524
+Chasmocranus rosae	VTO_0060917
+Chasmocranus brachynemus	VTO_0060916
+Chasmocranus lopezi	VTO_0060915
+Chasmocranus surinamensis	VTO_0060914
+Chasmocranus chimantanus	VTO_0060913
+Atopochilus vogti	VTO_0061871
+Rhamdia humilis	VTO_0060911
+Rhamdia poeyi	VTO_0060910
+Atopochilus pachychilus	VTO_0061870
+Chasmocranus quadrizonatus	VTO_0060919
+Chasmocranus truncatorostris	VTO_0060918
+Lasiancistrus tentaculatus	VTO_0037319
+Lasiancistrus saetiger	VTO_0037316
+Gelanoglanis stroudi	VTO_0060593
+Gelanoglanis tracieso	VTO_0060592
+Gelanoglanis nanonocticolus	VTO_0060591
+Gelanoglanis	VTO_0060590
+Liobagrus cf. marginatus (Mo 1991)	VTO_0060597
+Liosomadoras oncinus	VTO_0060596
+Asterophysus batrachus	VTO_0060595
+Asterophysus	VTO_0060594
+Corydoras punctatus	VTO_0061402
+Liobagrus formosanus	VTO_0060599
+Liobagrus nantoensis	VTO_0060598
+Psammphiletria nasuta	VTO_0061216
+Corydoras julii	VTO_0035309
+Amblyceps arunchalensis	VTO_0035585
+Rineloricaria melini	VTO_0059851
+Pimelodella eigenmanni	VTO_0060829
+Pimelodella mucosa	VTO_0060828
+Pimelodella procera	VTO_0060823
+Pimelodella cruxenti	VTO_0060822
+Pimelodella parva	VTO_0060821
+Pimelodella rudolphi	VTO_0060820
+Pimelodella dorseyi	VTO_0060827
+Pimelodella rendahli	VTO_0060826
+Pimelodella leptosoma	VTO_0060825
+Pimelodella griffini	VTO_0060824
+Ituglanis	VTO_0061664
+Corydoras microcephalus	VTO_0061408
+Corydoras sp. (de Pinna 1993)	VTO_0061409
+Pseudotothyris sp. (Schaefer 1991)	VTO_0060068
+Microglanis aff. iberingi (Shibatta 1998)	VTO_0059298
+Corydoras solox	VTO_0035371
+Microglanis poecilus	VTO_0059299
+Hypostomus scaphyceps	VTO_0060228
+Belodontichthys dinema	VTO_0061990
+Clarias brachysoma	VTO_0059676
+Sorubim elongatus	VTO_0036360
+Trichomycterus florense	VTO_0061543
+Trichomycterus goeldii	VTO_0061542
+Trichomycterus borellii	VTO_0061541
+Trichomycterus paolence	VTO_0061540
+Chiloglanis productus	VTO_0061899
+Trichomycterus stawiarski	VTO_0061546
+Chiloglanis sp. G (Vigliotta 2008)	VTO_0061896
+Liobagrus nigricauda	VTO_0035573
+Chiloglanis mbozi	VTO_0061890
+Chiloglanis niloticus	VTO_0061893
+Chiloglanis harbinger	VTO_0061892
+Imparfinis cochabambae	VTO_0060997
+Microglanis eurystoma	VTO_0059296
+Genus sp. 1 (Royero 1999)	VTO_0060589
+Chrysichthys aluuensis	VTO_0059225
+Acanthobunocephalus	VTO_0059347
+Microglanis cottoides	VTO_0059297
+Imparfinis longicaudus	VTO_0060995
+Imparfinis pristos	VTO_0060994
+Ompok ceylonensis	VTO_0061949
+Silurus grahami	VTO_0061948
+Silurus biwaensis	VTO_0061947
+Silurus mento	VTO_0061946
+Silurus triostegus	VTO_0061945
+Sphyraena asotus	VTO_0061944
+Silurus soldatovi	VTO_0061943
+Silurus palavanensis	VTO_0061942
+Silurus lithophilus	VTO_0061941
+Silurus chantrei	VTO_0061940
+Leiocassis tenebricus	VTO_0059492
+Pseudobunocephalus amazonicus	VTO_0059321
+Leiocassis similis	VTO_0059490
+Leiocassis brevirostris	VTO_0059491
+Leiocassis aculeatus	VTO_0059496
+Pseudobunocephalus iheringii	VTO_0059325
+Leiocassis doriae	VTO_0059494
+Leiocassis saravacensis	VTO_0059495
+Xyliphius	VTO_0059328
+Anaspidoglanis boutchangai	VTO_0061435
+Bagroides	VTO_0059499
+Proeutropiichthys taakree	VTO_0061433
+Proeutropiichthys macropthalmos	VTO_0061432
+Proeutropiichthys micropthalmos	VTO_0061431
+Corydoras melanistius	VTO_0035288
+Euchiloglanis dorsoarcus	VTO_0061095
+Gagata youssoufi	VTO_0061094
+Synodontis vermiculata	VTO_0061765
+Synodontis ilebrebis	VTO_0061764
+Gagata pakistanica	VTO_0061091
+Gagata gasawyuh	VTO_0061093
+Rineloricaria henselii	VTO_0059819
+Rineloricaria beni	VTO_0059816
+Rineloricaria kronei	VTO_0059817
+Rineloricaria altipinnis	VTO_0059814
+Rineloricaria cubataonis	VTO_0059815
+Rineloricaria quadrensis	VTO_0059812
+Rineloricaria reisi	VTO_0059810
+Rineloricaria cacerensis	VTO_0059811
+Mystus atrifasciatus	VTO_0035154
+Mystus multiradiatus	VTO_0035150
+Corydoras reticulatus	VTO_0035280
+Corydoras boehlkei	VTO_0061381
+Corydoras amphibelus	VTO_0061380
+Ancistrus sp (Hoffmann and Britz 2006)	VTO_0059928
+Corydoras surinamensis	VTO_0061382
+Corydoras saramaccensis	VTO_0061385
+Trichomycterus punctulatus	VTO_0061589
+Corydoras heteromorphus	VTO_0061387
+Nanobagrus torquatus	VTO_0035088
+Ancistrus leucostictus	VTO_0059926
+Ancistrus cuiabae	VTO_0059924
+Ancistrus mattogrossensis	VTO_0059925
+Sisor chennuah	VTO_0061169
+Sisor barakensis	VTO_0061168
+Pseudecheneis ukhrulensis	VTO_0061161
+Pseudecheneis maurus	VTO_0061160
+Myersglanis jayarami	VTO_0061163
+Pseudecheneis crassicauda	VTO_0061162
+Pseudexostoma longipterus	VTO_0061165
+Pseudexostoma yunnanense	VTO_0061164
+Conta pectinata	VTO_0061166
+Chrysichthys walkeri	VTO_0059221
+Corydoras steindachneri	VTO_0061369
+Corydoras sychri	VTO_0061368
+Callichthys fabricioi	VTO_0061417
+Hoplosternum magdalenae	VTO_0061363
+Dianema sp. (Kailola 2004)	VTO_0061362
+Decapogon sp. (Schaefer 1987)	VTO_0061361
+Aspidoras psammatides	VTO_0061360
+Corydoras pinheiroi	VTO_0061367
+Corydoras amandajanea	VTO_0061366
+Corydoras approuaguensis	VTO_0061365
+Hoplosternum punctatum	VTO_0061364
+Pseudobagrus vachellii	VTO_0059527
+Microcambeva draco	VTO_9046495
+Trichomycterus concolor	VTO_0061545
+Malapterurus teugelsi	VTO_0061271
+Malapterurus oguensis	VTO_0061270
+Cephalosilurus albomarginatus	VTO_0059281
+Chrysichthys duttoni	VTO_0059222
+Encheloclarias	VTO_0059616
+Trichomycterus fuliginosus	VTO_0061544
+Pimelodella witmeri	VTO_0060835
+Amphilius chalei	VTO_0061245
+Encheloclarias tapeinopterus	VTO_0059617
+Malapterurus melanochir	VTO_0061275
+Malapterurus tanoensis	VTO_0061274
+Harttiella	VTO_0037129
+Chiloglanis bifurcus	VTO_0061905
+Arius acutirostris	VTO_0059755
+Arius festinus	VTO_0059754
+Plotosus nkunga	VTO_0036305
+Plotosus japonicus	VTO_0036301
+Rineloricaria osvaldoi	VTO_0037100
+Hypostomus surinamensis	VTO_0060168
+Hypostomus carinatus	VTO_0060169
+Hypostomus limosus	VTO_0060162
+Hypostomus tapanahoniensis	VTO_0060163
+Hypostomus macrops	VTO_0060160
+Hypostomus jaguribensis	VTO_0060161
+Hypostomus sp. (Schaefer 1987)	VTO_0060166
+Hypostomus occidentalis	VTO_0060167
+Hypostomus pospisili	VTO_0060164
+Hypostomus sculpodon	VTO_0060165
+Trichomycterus conradi	VTO_0061574
+Trichomycterus heterodontus	VTO_0061575
+Farlowella jauruensis	VTO_0060342
+Farlowella martini	VTO_0060343
+Cetopsis orinoco	VTO_0060612
+Farlowella venezuelensis	VTO_0060341
+Farlowella rugosa	VTO_0060346
+Farlowella knerii	VTO_0060347
+Farlowella acus	VTO_0060344
+Cetopsis plumbea	VTO_0060617
+Cetopsis jurubidae	VTO_0060618
+Cetopsis starnesi	VTO_0060619
+Farlowella schreitmuelleri	VTO_0060348
+Chiloglanis occidentalis	VTO_0061897
+Bunocephalus aleuropsis	VTO_0059370
+Helicophagus leptorhynchus	VTO_0036450
+Parotocinclus collinsae	VTO_0037016
+Parotocinclus spilosoma	VTO_0037015
+Parotocinclus britskii	VTO_0037013
+Parotocinclus aripuanensis	VTO_0037011
+Macrotocinclus	VTO_0060298
+Pogonopoma	VTO_0060294
+Pogonopoma obscurum	VTO_0060295
+Pogonopoma parahybae	VTO_0060296
+Pogonopoma wertheimeri	VTO_0060297
+Canthopomus	VTO_0060290
+Fonchiiichthys	VTO_0060291
+New genus (Schaefer 1991)	VTO_0060293
+Parastegophilus maculatus	VTO_0061723
+Rhynchodoras	VTO_0060768
+Rhynchodoras woodsi	VTO_0060769
+Leptoglanis	VTO_0035601
+Parastegophilus paulensis	VTO_0061722
+Leptodoras copei	VTO_0060764
+Trachydoras sp. (Vigliotta 2008)	VTO_0060765
+Trachydoras microstomus	VTO_0060766
+Trachydoras brevis	VTO_0060767
+Leptodoras oyakawai	VTO_0060760
+Leptodoras cataniai	VTO_0060761
+Leptodoras sp. (Vigliotta 2008)	VTO_0060762
+Leptodoras myersi	VTO_0060763
+Glyptothorax sp. (de Pinna 1996)	VTO_0061052
+Pimelodus grosskopfii	VTO_0036414
+Stegophilus septentrionalis	VTO_0061727
+Stegophilus insidiosus	VTO_0061726
+Rhamdia enfurnada	VTO_0060904
+Rhamdia macuspanensis	VTO_0060905
+Rhamdia quelin	VTO_0060906
+Rhamdia xetequepeque	VTO_0060907
+Rhamdia laukidi	VTO_0060900
+Glyptothorax zhujiangensis	VTO_0061057
+Rhamdia zongolicensis	VTO_0060902
+Rhamdia itacaiunas	VTO_0060903
+Glyptothorax exodon	VTO_0061056
+Rhamdia sp. (Kailola 2004)	VTO_0060908
+Rhamdia foina	VTO_0060909
+Rhamdia laluchensis	VTO_0060901
+Chrysichthys ansorgii	VTO_0059228
+Pseudancistrus corantijniensis	VTO_0037307
+Pseudancistrus pectegenitor	VTO_0037304
+Rineloricaria steindachneri	VTO_0059853
+Hemiancistrus macrops	VTO_0059891
+Pseudancistrus sidereus	VTO_0037309
+Rineloricaria langei	VTO_0059850
+Trichomycterus rubiginosus	VTO_0061519
+Ageneiosus sp. 2 (Mo 1991)	VTO_0060580
+Ageneiosus pardalis	VTO_0060581
+Ageneiosus brevis	VTO_0060582
+Ageneiosus magoi	VTO_0060583
+Ageneiosus militaris	VTO_0060584
+Ageneiosus piperatus	VTO_0060585
+Ageneiosus valenciennesi	VTO_0060586
+Epapterus blohmi	VTO_0060587
+Genus 1 (Royero 1999)	VTO_0060588
+Loricariichthys derbyi	VTO_0059856
+Breitensteinia insignis	VTO_0061310
+Rineloricaria strigilata	VTO_0059854
+Rineloricaria konopickyi	VTO_0059855
+Pimelodella australis	VTO_0060838
+Pimelodella pappenheimi	VTO_0060839
+Akysis scorteus	VTO_0061292
+Pimelodella transitoria	VTO_0060830
+Pimelodella metae	VTO_0060831
+Pimelodella montana	VTO_0060832
+Pimelodella peruana	VTO_0060833
+Pimelodella grisea	VTO_0060834
+Loricariichthys edentatus	VTO_0059858
+Pimelodella boliviana	VTO_0060836
+Pimelodella robinsoni	VTO_0060837
+Breitensteinia hypselurus	VTO_0061311
+Sturisoma aureum	VTO_0060140
+Auchenipterus britskii	VTO_0060484
+Akysis sp. (de Pinna 1993)	VTO_0061290
+Sturisoma robustum	VTO_0060141
+Clarias sp. (Britz and Hoffman 2006)	VTO_0059674
+Pterygoplichthys ambrosettiii	VTO_0060414
+Akysis hendricksoni	VTO_0061296
+Sturisoma tenuirostre	VTO_0060143
+Akysis variegatus	VTO_0061295
+Sturisoma dariense	VTO_0060144
+Akysis sp. 2 (de Pinna 1996)	VTO_0061294
+Sturisoma kneri	VTO_0060145
+Sturisoma lyra	VTO_0060146
+Trichomycterus chiltoni	VTO_0061514
+Pareiorhaphis cameroni	VTO_0060147
+Cordylancistrus	VTO_0059791
+Ixinandria sp. (Britto 2003)	VTO_0059790
+Cordylancistrus nephelion	VTO_0059793
+Cordylancistrus perijae	VTO_0059792
+Cordylancistrus daguae	VTO_0059795
+Cordylancistrus torbesensis	VTO_0059794
+Cordylancistrus platycephalus	VTO_0059797
+Cordylancistrus platyrhynchus	VTO_0059796
+Rineloricaria misionera	VTO_0059799
+Rineloricaria latirostris	VTO_0059798
+Tachysurus brashnikowi	VTO_0059553
+Tachysurus spilotus	VTO_0059552
+Tachysurus herzensteini	VTO_0059551
+Pelteobagrus sinensis	VTO_0059550
+Parailia occidentalis	VTO_0061474
+Scoloplax empousa	VTO_0059556
+Scoloplax dicra	VTO_0059555
+Scoloplax sp. (de Pinna 1993)	VTO_0059554
+Ancharius	VTO_0059559
+Scoloplax baskini	VTO_0059558
+Loricariichthys rostratus	VTO_0059868
+Synodontis ? sp. (Royero 1999)	VTO_0061882
+Hemisynodontis	VTO_0061883
+Mochokiella	VTO_0061880
+Trichomycterus weyrauchi	VTO_0061553
+Trichomycterus potschi	VTO_0061554
+Chiloglanis sp. (de Pinna 1993)	VTO_0061887
+Trichomycterus motatanensis	VTO_0061556
+Trichomycterus tupinamba	VTO_0061557
+Trichomycterus hasemani	VTO_0061558
+Ompok anostomus	VTO_0061958
+Ompok leiacanthus	VTO_0061959
+Corydoras serratus	VTO_0035366
+Ompok borneensis	VTO_0061954
+Ompok supernus	VTO_0061955
+Ompok fumidus	VTO_0061956
+Ompok jaynei	VTO_0061957
+Ompok mysoricus	VTO_0061950
+Ompok brevirictus	VTO_0061951
+Ompok rhadinurus	VTO_0061952
+Ompok sindensis	VTO_0061953
+Aspredinichthys filamentosus	VTO_0059315
+Aspredinichthys tibicen	VTO_0059314
+Corydoras similis	VTO_0035368
+Dupouyichthys	VTO_0059316
+Hypsidoris farsonensis	VTO_0059311
+Proeutropiichthys	VTO_0061429
+Aspredinichthys	VTO_0059313
+Hypsidoris oregonensis	VTO_0059312
+Diplomystes camposensis	VTO_0061424
+Olivaichthys	VTO_0061425
+Olivaichthys viedmensis	VTO_0061426
+Olivaichthys cuyanus	VTO_0061427
+Pseudobunocephalus	VTO_0059319
+Corydoras seussi	VTO_0035367
+Diplomystes chilensis	VTO_0061422
+Corydoras septentrionalis	VTO_0035365
+Synodontis notata	VTO_0061774
+Glyptothorax sufii	VTO_0061053
+Synodontis leoparda	VTO_0061772
+Synodontis levequei	VTO_0061778
+Synodontis punu	VTO_0061779
+Mystus rhegma	VTO_0035142
+Scoloplax dolicholophia	VTO_0059557
+Mystus mysticetus	VTO_0035148
+Chrysichthys uniformis	VTO_0059214
+Synodontis arnoulti	VTO_0061755
+Corydoras longipinnis	VTO_0061396
+Corydoras micracanthus	VTO_0061397
+Corydoras latus	VTO_0061394
+Loricaria pumila	VTO_0059778
+Corydoras lamberti	VTO_0061392
+Corydoras xinguensis	VTO_0061393
+Corydoras barbatus sp. II (Britto 2003)	VTO_0061390
+Ancistrus parecis	VTO_0059958
+Ancistrus minutus	VTO_0059956
+Delturus angulicauda	VTO_0059771
+Guiritinga barbus	VTO_0059770
+Loricaria spinulifera	VTO_0059775
+Ancistrus mullerae	VTO_0059950
+Delturus carinotus	VTO_0036825
+Phractura clauseni	VTO_0061176
+Phractura gladysae	VTO_0061177
+Platytropius yunnanensis	VTO_0061174
+Phractura macrura	VTO_0061175
+Pseudeutropius atherinoides	VTO_0061172
+Platytropius siamensis	VTO_0061173
+Sisor rheophilus	VTO_0061170
+Horabagridae	VTO_0061171
+Corydoras paucerna	VTO_0061378
+Corydoras isbrueckeri	VTO_0061379
+Amaralia n. sp. (Friel 1994)	VTO_0059318
+Corydoras crimmeni	VTO_0061370
+Corydoras cochui	VTO_0061371
+Corydoras esperanze	VTO_0061372
+Corydoras sarareensis	VTO_0061373
+Corydoras virginiae	VTO_0061374
+Corydoras orphnopterus	VTO_0061375
+Corydoras parallelus	VTO_0061376
+Corydoras sp. A (Britto 2003)	VTO_0061377
+Exostoma sp. (de Pinna 1993)	VTO_0061088
+Rita itchkeea	VTO_0061089
+Erethistes sp. (Chen 1994)	VTO_0061082
+Exostoma barakensis	VTO_0061083
+Erethistes maesotensis	VTO_0061080
+Erethistes sp. (de Pinna 1993)	VTO_0061081
+Exostoma vinciguerrae	VTO_0061086
+Exostoma sp. (Chen 1994)	VTO_0061084
+Exostoma sp. (de Pinna 1996)	VTO_0061085
+Hypoptopoma guianense	VTO_0036958
+Hisonotus luteofrenatus	VTO_0036950
+Nannoptopoma spectabile	VTO_0036953
+Rineloricaria anhaguapitan	VTO_0059841
+Andersonia	VTO_0061258
+Rineloricaria isaaci	VTO_0059840
+Chiloglanis normani	VTO_0061923
+Oxyropsis sp. (de Pinna 1993)	VTO_0059774
+Oreoglanis lepturus	VTO_0061128
+Trichomycterus itatiayae	VTO_0061550
+Ameiurus sp. (Vigliotta 2008)	VTO_0061486
+Trichomycterus johnsoni	VTO_0061551
+Isbrueckerichthys saxicola	VTO_0037155
+Trichomycterus bomboizanus	VTO_0061552
+Mochokiella paynei	VTO_0061881
+Oreoglanis immaculatus	VTO_0061127
+Trichomycterus nigroauratus	VTO_0061555
+Oreoglanis colurus	VTO_0061126
+Hemisynodontis membranaceus	VTO_0061884
+Corumbataia veadeiros	VTO_0060119
+Otothyris sp. (Schaefer 1991)	VTO_0060118
+Otothyris sp. (Britto 2003)	VTO_0060117
+Oreoglanis macronemus	VTO_0061121
+Otothyris rostrata	VTO_0060115
+Dolichancistrus atratoensis	VTO_0060114
+Dolichancistrus fuesslii	VTO_0060113
+Dolichancistrus setosus	VTO_0060112
+Dolichancistrus pediculatus	VTO_0060111
+Dolichancistrus cobrensis	VTO_0060110
+Trichomycterus claudiae	VTO_0061559
+Oreoglanis laciniosus	VTO_0061122
+Chiloglanis sp. D (Vigliotta (2008)	VTO_0061888
+Furcodontichthys novaesi	VTO_0060337
+Furcodontichthys	VTO_0060336
+Spectracanthicus murinus	VTO_0060335
+Spectracanthicus	VTO_0060334
+Pterosturisoma microps	VTO_0060333
+Pterosturisoma	VTO_0060332
+Cetopsidium ferreirai	VTO_0060623
+Pseudotocinclus jaquiae	VTO_0060330
+Helogenes gouldingi	VTO_0060629
+Cetopsidium minutum	VTO_0060628
+Farlowella sp. (de Pinna 1993)	VTO_0060339
+Farlowella isbruckeri	VTO_0060338
+Gymnotocinclus anosteos	VTO_0036926
+Glyptothorax obliquimaculatus	VTO_0036553
+Oxydoras kneri	VTO_0060751
+Pterodoras sp. (Royero 1999)	VTO_0060750
+Kalyptodoras bahiensis	VTO_0060753
+Kalyptodoras	VTO_0060752
+Rhinodoras gallagheri	VTO_0060755
+Rhinodoras armbrusteri	VTO_0060754
+Leptodoras rogersae	VTO_0060757
+Rhinodoras sp. (Vigliotta 2008)	VTO_0060756
+Leptodoras nelsoni	VTO_0060759
+Leptodoras sp. (Friel 1994)	VTO_0060758
+Isorineloricaria spinosissma	VTO_0060029
+Isorineloricaria spinosissimus	VTO_0060028
+Pseudobunocephalus sp. (Friel 1994)	VTO_0059320
+Nemuroglanis pauciradiatus	VTO_0060939
+Nemuroglanis panamensis	VTO_0060938
+Hypostomus paulinus	VTO_0060249
+Hypostomus lima	VTO_0060248
+Hypostomus multidens	VTO_0060243
+Hypostomus nickeriensis	VTO_0060242
+Hypostomus crassicauda	VTO_0060241
+Hypostomus macushi	VTO_0060240
+Hypostomus nudiventris	VTO_0060247
+Hypostomus weberi	VTO_0060246
+Nemuroglanis	VTO_0060937
+Gladioglanis conquistador	VTO_0060936
+Akysis clavulus	VTO_0061302
+Hypophthalmus oremaculatus	VTO_0037377
+Hypophthalmus marginatus	VTO_0037376
+Hypophthalmus fimbriatus	VTO_0037374
+Brachysynodontis batensoda	VTO_0061879
+Pimelodella wolfi	VTO_0060841
+Amphilius lentiginosus	VTO_0061251
+Pimelodella chaparae	VTO_0060840
+Pseudobunocephalus cf. bifidus (Friel 1994)	VTO_0059322
+Pimelodella taenioptera	VTO_0060843
+Pimelodella parnahybae	VTO_0060842
+Bagarius rutilus	VTO_0061097
+Trachelyopterus sp. (Vigliotta 2008)	VTO_0060517
+Malapterurus microstoma	VTO_0036809
+Glyptothorax sp. (de Pinna 1993)	VTO_0061040
+Pimelodella sp. B (Bockmann 1998)	VTO_0060844
+Diplomystes sp. (Vigliotta 2008)	VTO_0061423
+Hemiancistrus votouro	VTO_0059878
+Pimelodella macrocephala	VTO_0060809
+Pimelodella ignobilis	VTO_0060808
+Pimelodella hasemani	VTO_0060805
+Pariolius armillatus	VTO_0060804
+Pimelodella eigenmanniorum	VTO_0060807
+Pimelodella spelaea	VTO_0060806
+Cetopsorhamdia orinoco	VTO_0060801
+Cetopsorhamdia nasus	VTO_0060800
+Pariolius	VTO_0060803
+Cetopsorhamdia sp. n. A (Bockmann 1998)	VTO_0060802
+Pareiorhaphis nasuta	VTO_0037200
+Hemiancistrus holostictus	VTO_0059879
+Sciades sona	VTO_0059706
+Trichomycterus tiraquae	VTO_0061509
+Sciades emphysetus	VTO_0059704
+Sciades felis	VTO_0059705
+Plicofollis platystomus	VTO_0059702
+Sciades paucus	VTO_0059703
+Loricaria nickeriensis	VTO_0059786
+Loricaria piracicabae	VTO_0059787
+Loricaria lentiginosa	VTO_0059784
+Loricaria apeltogaster	VTO_0059785
+Loricaria cataphracta	VTO_0059782
+Loricaria sp. (Britto 2003)	VTO_0059783
+Loricaria holmbergi	VTO_0059780
+Loricaria lata	VTO_0059781
+Plicofollis angyropleuron	VTO_0059701
+Loricaria sp. (Friel 1994)	VTO_0059788
+Loricaria sp. (Armbruster 2004)	VTO_0059789
+Batasio affinis	VTO_0059540
+Batasio dayi	VTO_0059541
+Batasio fasciolatus	VTO_0059542
+Batasio elongatus	VTO_0059543
+Batasio sharavatiensis	VTO_0059544
+Batasio fluviatilis	VTO_0059545
+Batasio spilurus	VTO_0059546
+Batasio pakistanicus	VTO_0059547
+Batasio feruminatus	VTO_0059548
+Tachysurus mica	VTO_0059549
+Dupouyichthys sapito	VTO_0059317
+Pseudobunocephalus rugosus	VTO_0059326
+Corydoras simulatus	VTO_0035369
+Trichomycterus piurae	VTO_0061507
+Olivaichthys mesembrinus	VTO_0061428
+Rineloricaria morrowi	VTO_0059852
+Hypsidoris	VTO_0059310
+Corydoras concolor	VTO_0035222
+Trichomycterus macrotrichopterus	VTO_0061567
+Trichomycterus migrans	VTO_0061566
+Trichomycterus barbouri	VTO_0061561
+Trichomycterus taczanowskii	VTO_0061563
+Trichomycterus hualco	VTO_0061562
+Synodontis albolineata	VTO_0061823
+Trichomycterus variegatus	VTO_0061569
+Trichomycterus meridae	VTO_0061568
+Pseudobunocephalus bifidus	VTO_0059327
+Pygidianops cuao	VTO_0061506
+Ompok krattensis	VTO_0061961
+Ompok platyrhynchus	VTO_0061960
+Ompok sp. (de Pinna 1993)	VTO_0061963
+Hypsidoridae	VTO_0059309
+Ompok siluroides	VTO_0061965
+Ompok hypophthalmus	VTO_0061964
+Ompok goae	VTO_0061967
+Ompok weberi	VTO_0061966
+Ompok urbaini	VTO_0061969
+Callichthys serralabium	VTO_0061420
+Microglanis carlae	VTO_0059300
+Microglanis cibelae	VTO_0059301
+Batrochoglanis acanthochiroides	VTO_0059306
+Batrochoglanis transmontanus	VTO_0059307
+Cruciglanis	VTO_0059304
+Diplomystes sp. (de Pinna 1993)	VTO_0061421
+Corydoras evelynae	VTO_0061411
+Corydoras spectabilis	VTO_0061410
+Lepthoplosternum stellatum	VTO_0061413
+Lepthoplosternum beni	VTO_0061412
+Scleromystax salmacis	VTO_0061415
+Corydoras semiaquilus	VTO_0035364
+Corydoras delphax	VTO_0035319
+Corydoras sterbai	VTO_0035318
+Corydoras davidsandsi	VTO_0035317
+Corydoras crypticus	VTO_0035316
+Corydoras haraldschultzi	VTO_0035315
+Corydoras imitator	VTO_0035314
+Corydoras habrosus	VTO_0035313
+Corydoras hastatus	VTO_0035312
+Corydoras leopardus	VTO_0035311
+Hemisilurus heterorhynchus	VTO_0061989
+Hito	VTO_0061988
+Synodontis ouemeensis	VTO_0061775
+Kryptopterus mononema	VTO_0061983
+Kryptopterus bleekeri	VTO_0061982
+Kryptopterus lumholtzi	VTO_0061981
+Xyliphius cf. melanopterus (Friel 1994)	VTO_0059329
+Parasilurus asotus	VTO_0061987
+Parasilurus	VTO_0061986
+Kryptopterus hesperius	VTO_0061985
+Kryptopterus palembangensis	VTO_0061984
+Synodontis xiphias	VTO_0061777
+Synodontis dekimpei	VTO_0061773
+Arius sumatranus	VTO_0059768
+Arius microcephalus	VTO_0059769
+Ancistrus maracasae	VTO_0059948
+Ancistrus gymnorhynchus	VTO_0059949
+Synodontis macrophthalma	VTO_0061839
+Ancistrus jataiensis	VTO_0059944
+Ancistrus eustictus	VTO_0059945
+Ancistrus bufonius	VTO_0059946
+Ancistrus caucanus	VTO_0059947
+Ancistrus tamboensis	VTO_0059940
+Arius gigas	VTO_0059765
+Ancistrus erinaceus	VTO_0059942
+Hemiarius maculatus	VTO_0059767
+Phractura sp. (de Pinna 1993)	VTO_0061183
+Phractura lindica	VTO_0061182
+Phractura scaphyrhynchura	VTO_0061181
+Phractura sp. (Vigliotta 2008)	VTO_0061180
+Phractura fasciata	VTO_0061187
+Phractura tenuicauda	VTO_0061186
+Phractura brevicauda	VTO_0061185
+Phractura ansorgii	VTO_0061184
+Ituglanis macunaima	VTO_0061671
+Paramphilius	VTO_0061189
+Phractura bovei	VTO_0061188
+Centromochlus existimatus	VTO_0035024
+Aspidoras brunneus	VTO_0061349
+Austroglanis barnardi	VTO_0061345
+Austroglanis sclateri	VTO_0061344
+Austroglanis gilli	VTO_0061346
+Cranoglanis songhongensis	VTO_0061341
+Cranoglanis multiradiatus	VTO_0061340
+Austroglanis	VTO_0061343
+Siluranodon	VTO_0061482
+Corydoras loretoensis	VTO_0035289
+Olyra collettii	VTO_0059382
+Amblyceps torrentis	VTO_0061749
+Amblyceps protentum	VTO_0061748
+Oreoglanis heteropogon	VTO_0061125
+Amblyceps tenuispinis	VTO_0061741
+Nahangbagrus songamensis	VTO_0061740
+Amblyceps kurzii	VTO_0061743
+Amblyceps variegatum	VTO_0061742
+Amblyceps carinatum	VTO_0061745
+Amblyceps laticeps	VTO_0061744
+Amblyceps murraystuarti	VTO_0061747
+Amblyceps macropterus	VTO_0061746
+Corydoras mamore	VTO_0061399
+Liauchenoglanis maculatus	VTO_0061439
+Paradoxoglanis parvus	VTO_0036815
+Paradoxoglanis	VTO_0036814
+Loricariichthys platymetopon	VTO_0037141
+Liauchenoglanis	VTO_0061438
+Trichomycterus diabolus	VTO_0036497
+Megalonema amaxanthum	VTO_0036364
+Megalonema	VTO_0036363
+Sorubim maniradii	VTO_0036361
+Hemiancistrus landoni	VTO_0059875
+Dolichancistrus	VTO_0060108
+Dolichancistrus carnegiei	VTO_0060109
+Lipopterichthys	VTO_0060104
+Lipopterichthys sp. (Britto 2003)	VTO_0060105
+Lipopterichthys carrioni	VTO_0060106
+Loricariinae sp. (Friel 1994)	VTO_0060107
+Harttia dissidens	VTO_0060100
+Anaspidoglanis macrostomus	VTO_0061437
+Harttia depressa	VTO_0060102
+Harttia uatumensis	VTO_0060103
+Synodontis nummifer	VTO_0061825
+Neoplecostomus sp. (Britto 2003)	VTO_0060324
+Harttia garavelloi	VTO_0060092
+Aposturisoma myriodon	VTO_0060326
+Sturisomatichthys caquetae	VTO_0060327
+Neoplecostomus variipictus	VTO_0060320
+Neoplecostomus granosus	VTO_0060321
+Neoplecostomus sp. (Schaefer 1991)	VTO_0060322
+Gagata itchkeea	VTO_0061090
+Anaspidoglanis akiri	VTO_0061436
+Sturisomatichthys tamanae	VTO_0060328
+Sturisomatichthys leightoni	VTO_0060329
+Pseudancistrus coquenani	VTO_0060091
+Hemiancistrus sp. (Armbruster 2004)	VTO_0059877
+Harttia torrenticola	VTO_0060096
+Glyptothorax macromaculatus	VTO_0036566
+Clarias maclareni	VTO_0059672
+Hemidoras sp. (Vigliotta 2008)	VTO_0060726
+Clarias kapuasensis	VTO_0059673
+Aposturisoma	VTO_0060325
+Opsodoras morei	VTO_0060727
+Acanthodoras depressus	VTO_0060746
+Paraloricaria commersonoides	VTO_0060031
+Centrochir	VTO_0060744
+Centrochir crocodili	VTO_0060745
+Lithoxus bovallii	VTO_0060034
+Megalodoras guayoensis	VTO_0060743
+Lithoxus stocki	VTO_0060036
+Centrodoras hasemani	VTO_0060741
+Lithoxus jantjae	VTO_0060038
+Pterodoras rivasi	VTO_0060748
+Megalodoras granulosus	VTO_0060749
+Hypostomus paucimaculatus	VTO_0060258
+Hypostomus oculeus	VTO_0060259
+Hemiancistrus spinosissimus	VTO_0059890
+Rhamdella longiuscula	VTO_0060928
+Rhamdella exsudans	VTO_0060929
+Rhamdella jenynsii	VTO_0060926
+Rhamdella rusbyi	VTO_0060927
+Rhamdella	VTO_0060924
+Rhamdella montana	VTO_0060925
+Rhamdiopsis moreirai	VTO_0060922
+Rhamdiopsis sp. n. A (Bockmann 1998)	VTO_0060923
+Chasmocranus peruanus	VTO_0060920
+Chasmocranus longior	VTO_0060921
+Oxyropsis sp. (Schaefer 1991)	VTO_0059773
+Delturus brevis	VTO_0059772
+Glyptothorax siamensis	VTO_0061060
+Ancistrus temminckii	VTO_0059955
+Microglanis pataxo	VTO_0059303
+Hemiancistrus punctulatus	VTO_0037365
+Loricaria tucumanensis	VTO_0059777
+Loricaria lundbergi	VTO_0059776
+Ancistrus lineolatus	VTO_0059957
+Denticetopsis sauli	VTO_0060638
+Denticetopsis praecox	VTO_0060639
+Ancistrus jelskii	VTO_0059951
+Helogenes castaneus	VTO_0060632
+Denticetopsis	VTO_0060633
+Helogenes uruyensis	VTO_0060630
+Helogenes sp. (Mo 1991)	VTO_0060631
+Denticetopsis seducta	VTO_0060636
+Denticetopsis macilenta	VTO_0060637
+Denticetopsis royeroi	VTO_0060634
+Denticetopsis iwokrama	VTO_0060635
+Xyliphius magdalenae	VTO_0059332
+Ictalurus mexicanus	VTO_0061498
+Pimelodella pallida	VTO_0060812
+Pimelodella papariae	VTO_0060813
+Pimelodella buckleyi	VTO_0060810
+Pimelodella notomelas	VTO_0060811
+Pimelodella geryi	VTO_0060816
+Pimelodella avanhandavae	VTO_0060817
+Pimelodella tapatapae	VTO_0060814
+Pimelodella wesselii	VTO_0060815
+Amphilius brevis	VTO_0061242
+Pimelodella reyesi	VTO_0060818
+Pimelodella sp. n. (Bockmann 1998)	VTO_0060819
+Brachyplatystoma promagdalena	VTO_9031406
+Phractura stiassny	VTO_0061178
+Phractura sp. (Mo 1991)	VTO_0061179
+Clarias camerunensus	VTO_0059679
+Proeutropiichthys buchanani	VTO_0061430
+Aspistor insculptus	VTO_0059745
+Neoplecostomus sp. (Schaefer 1990)	VTO_0060323
+Synodontis cuangoana	VTO_0061761
+Pimelodus ortmanni	VTO_0059575
+Pimelodus joannis	VTO_0059574
+Pimelodus brevis	VTO_0059577
+Pimelodus punctatus	VTO_0059576
+Megalonema psammium	VTO_0059571
+Megalonema xanthum	VTO_0059570
+Megalonema argentinum	VTO_0059573
+Megalonema sp. (de Pinna 1993)	VTO_0059572
+Pimelodus pantaneiro	VTO_0059579
+Pimelodus jivaro	VTO_0059578
+Selenaspis	VTO_9031880
+Xyliphius sp. (Chen 1994)	VTO_0059336
+Corydoras vittatus	VTO_0035342
+Loricariichthys stuebelii	VTO_0059870
+Corydoras weitzmani	VTO_0035343
+Clarias insolitus	VTO_0059689
+Clarias salae	VTO_0059688
+Clarias olivaceus	VTO_0059687
+Clarias abbreviatus	VTO_0059686
+Clarias sp. (de Pinna 1993)	VTO_0059685
+Clarias tijsmanni	VTO_0059684
+Clarias sulcatus	VTO_0059683
+Clarias dialonensis	VTO_0059682
+Clarias dumerilii	VTO_0059681
+Clarias laeviceps	VTO_0059680
+Kryptopterus dissitus	VTO_0061976
+Kryptopterus lais	VTO_0061977
+Kryptopterus eugeneiatus	VTO_0061974
+Kryptopterus geminus	VTO_0061975
+Kryptopterus sabanus	VTO_0061972
+Ompok pluriradiatus	VTO_0061970
+Ceratoglanis pachynema	VTO_0061971
+Pterobunocephalus dolichurus	VTO_0059377
+Bunocephalus sp. 1 (Chen 1994)	VTO_0059376
+Bunocephalus sp. 3 (Chen 1994)	VTO_0059375
+Bunocephalus n. sp. 2 (Friel 1994)	VTO_0059374
+Bunocephalus n. sp. 4 (Friel 1994)	VTO_0059373
+Bunocephalus n. sp. 5 (Friel 1994)	VTO_0059372
+Bunocephalus sp. (Fink and Fink 1981)	VTO_0059371
+Kryptopterus cheveyi	VTO_0061979
+Corydoras n. sp. (Britto 2003)	VTO_0061406
+Corydoras areio	VTO_0061407
+Corydoras sp. (Mo 1991)	VTO_0061404
+Corydoras urucu	VTO_0061405
+Corydoras kanei	VTO_0035308
+Corydoras incolicana	VTO_0061403
+Corydoras sanchesi	VTO_0061400
+Corydoras carlae	VTO_0061401
+Corydoras geoffroy	VTO_0035304
+Corydoras gossei	VTO_0035305
+Corydoras gomezi	VTO_0035307
+Corydoras gracilis	VTO_0035300
+Corydoras guianensis	VTO_0035301
+Corydoras guapore	VTO_0035302
+Corydoras geryi	VTO_0035303
+Pterocryptis torrentis	VTO_0061998
+Pterocryptis afghana	VTO_0061999
+Acentronichthys leptos	VTO_0035629
+Chiloglanis angolensis	VTO_0061919
+Pterocryptis gangelica	VTO_0061991
+Pterocryptis buccata	VTO_0061992
+Pterocryptis barakensis	VTO_0061993
+Pterocryptis crenula	VTO_0061994
+Pterocryptis bokorensis	VTO_0061995
+Pterocryptis verecunda	VTO_0061996
+Pterocryptis inusitata	VTO_0061997
+Chrysichthys helicophagus	VTO_0035129
+Trichomycterus novalimensis	VTO_0061570
+Ancistrus triradiatus	VTO_0059971
+Ancistrus verecundus	VTO_0059970
+Trichomycterus davisi	VTO_0061578
+Trichomycterus chaberti	VTO_0061579
+Acanthicus hystrix	VTO_0059975
+Arius uncinatus	VTO_0059758
+Hypancistrus inspector	VTO_0059977
+Hypancistrus zebra	VTO_0059976
+Trichomycterus ramosus	VTO_0061572
+Trichomycterus atochae	VTO_0061573
+Arius parkii	VTO_0059757
+Arius africanus	VTO_0059756
+Osteogeneiosus sp. (Mo 1991)	VTO_0059751
+cf. Arius macrorhynchus (Kailola 2004)	VTO_0059750
+Arius sp. (Schaefer 1990)	VTO_0059753
+Arius sp. (Kailola 2004)	VTO_0059752
+Paramphilius goodi	VTO_0061190
+Paramphilius teugelsi	VTO_0061191
+Paramphilius firestonei	VTO_0061192
+Paramphilius trichomycteroides	VTO_0061193
+Paramphilius baudoni	VTO_0061194
+Doumea	VTO_0061195
+Doumea alula	VTO_0061196
+Doumea angolensis	VTO_0061197
+Doumea chappuisi	VTO_0061198
+Doumea sanaga	VTO_0061199
+Aspidoras carvalhoi	VTO_0061350
+Aspidoras lakoi	VTO_0061351
+Aspidoras aff. poecilus (Britto 2003)	VTO_0061356
+Aspidoras belenos	VTO_0061357
+Aspidoras virgulatus	VTO_0061354
+Aspidoras maculosus	VTO_0061355
+Chaetostoma dorsale	VTO_0059990
+Chaetostoma daidalmatos	VTO_0059997
+Chaetostoma venezuelae	VTO_0059995
+Chaetostoma dupouii	VTO_0059994
+Sperata acicularis	VTO_0059431
+Loricariichthys hauxwelli	VTO_0059863
+Xyliphius cf. lepturus (Friel 1994)	VTO_0059338
+Synodontis kogoensis	VTO_0061758
+Synodontis geledensis	VTO_0061756
+Synodontis obesus	VTO_0061757
+Synodontis sp. (Mo 1991)	VTO_0061754
+Amblyceps tuberculatum	VTO_0061752
+Synodontis multimaculata	VTO_0061753
+Amblyceps caecutiens	VTO_0061750
+Amblyceps platycephalus	VTO_0061751
+Parauchenoglanis longiceps	VTO_0061449
+Sperata aorella	VTO_0059432
+Loricariichthys melanocheilus	VTO_0059862
+Hypostomus seminudus	VTO_0060260
+Ernstichthys intonsus	VTO_0059343
+Nanobagrus armatus	VTO_0059433
+Ernstichthys sp. (de Pinna 1996)	VTO_0059340
+Ernstichthys sp. (Friel 1994)	VTO_0059341
+Loricariichthys chanjoo	VTO_0059861
+Ancistrus occloi	VTO_0059961
+Exostoma stuarti	VTO_0061087
+Fajumia	VTO_9001475
+Socnopaea	VTO_9001476
+Socnopaea horai	VTO_9001477
+Pareiorhina brachyrhyncha	VTO_0037171
+Nanobagrus immaculatus	VTO_0059434
+Trichomycterus giganteus	VTO_0036480
+Pimelodina	VTO_0036375
+Pimelodina flavipinnis	VTO_0036376
+Platystomatichthys	VTO_0036377
+Calophysus	VTO_0036373
+Scoloplax baileyi	VTO_9046509
+Hemisorubim	VTO_0036379
+Baryancistrus longipinnis	VTO_0060131
+Baryancistrus demantoides	VTO_0060130
+Sturisoma brevirostre	VTO_0060133
+Baryancistrus niveatus	VTO_0060132
+Sturisoma sp. (Friel 1994)	VTO_0060135
+Sturisoma rostratum	VTO_0060134
+Sturisoma frenatum	VTO_0060137
+Sturisoma barbatum	VTO_0060136
+Sturisoma sp. (Schaefer 1987)	VTO_0060139
+Sturisoma guentheri	VTO_0060138
+Amblydoras bolivarensis	VTO_0060790
+Chaetostoma sovichthys	VTO_0059999
+Ancistrus sp. (Armbruster 2004)	VTO_0059954
+Amblydoras sp. (Friel 1994)	VTO_0060792
+Entomocorus	VTO_0060489
+Auchenipterus ambyiacus	VTO_0060488
+Auchenipterus nigripinnis	VTO_0060481
+Auchenipterus menezesi	VTO_0060480
+Auchenipterus osteomystax	VTO_0060483
+Auchenipterus brachyurus	VTO_0060482
+Auchenipterus sp. (de Pinna 1993)	VTO_0060485
+Listrura picinguabae	VTO_0036509
+Auchenipterus fordicei	VTO_0060487
+Auchenipterus sp. (cuyuni) (Royero 1999)	VTO_0060486
+Chaetostoma marcapatae	VTO_0059998
+Listrura tetraradiata	VTO_0036508
+Hemibagrus microphthalmus	VTO_0059399
+Glyptothorax longicauda	VTO_0036573
+Chaetostoma vagum	VTO_0060005
+Chaetostoma alternifasciatum	VTO_0060004
+Chaetostoma guairense	VTO_0060007
+Chaetostoma mollinasum	VTO_0060006
+Chaetostoma stroumpoulos	VTO_0060001
+Chaetostoma fischeri	VTO_0060000
+Chaetostoma marginatum	VTO_0060003
+Chaetostoma anale	VTO_0060002
+Chaetostoma niveum	VTO_0060009
+Chaetostoma paucispinis	VTO_0060008
+Rhinelepis aspera	VTO_0036844
+Peckoltia sp. 2 (Armbruster 2004)	VTO_0060269
+Peckoltia kuhlmanni	VTO_0060268
+Glyptoperichthys lituratus	VTO_0060265
+Glyptoperichthys	VTO_0060264
+Peckoltia brevis	VTO_0060267
+Peckoltia sp. big spot (Armbruster 2004)	VTO_0060266
+Aphanotorulus unicolor	VTO_0060261
+Ancistrus stigmaticus	VTO_0059937
+Niobichthys ferrarisi	VTO_0060263
+Niobichthys	VTO_0060262
+Ancistrus hoplogenys	VTO_0059936
+Cetopsorhamdia molinae	VTO_0060799
+Cetopsorhamdia phantasia	VTO_0060798
+Lithoxus pallidimaculatus	VTO_0037351
+Lithoxus lithoides	VTO_0037352
+Cetopsorhamdia sp. n. B (Bockmann 1998)	VTO_0060793
+Amphilius laticaudatus	VTO_0061233
+Amphilius korupi	VTO_0061232
+Pareiorhaphis bahianus	VTO_0037196
+Neoplecostomus sp. (de Pinna 1993)	VTO_0060319
+Dasyloricaria seminuda	VTO_0060318
+Astroblepus trifasciatus	VTO_0060649
+Astroblepus mancoi	VTO_0060648
+Astroblepus festae sp. 1 (Mo 1991)	VTO_0060647
+Parancistrus nudiventris	VTO_0060310
+Astroblepus homodon	VTO_0060645
+Astroblepus formosus	VTO_0060644
+Lasiancistrus castelnaui	VTO_0060315
+Astroblepus vaillanti	VTO_0060642
+Cetopsidae sp. (de Pinna 1993)	VTO_0060641
+Denticetopsis epa	VTO_0060640
+Ancistrus megalostomus	VTO_0059939
+Ancistrus dubius	VTO_0059938
+Pimelodella peruensis	VTO_0060867
+Pimelodella breviceps	VTO_0060866
+Pimelodella sp. A (Bockmann 1998)	VTO_0060865
+Pimelodella altipinnis	VTO_0060864
+Pimelodella brasiliensis	VTO_0060863
+Pimelodella figueroai	VTO_0060862
+Pimelodella serrata	VTO_0060860
+Lasiancistrus nationi	VTO_0060313
+Pimelodella odynea	VTO_0060869
+Pimelodella macturki	VTO_0060868
+Lasiancistrus guacharote	VTO_0060312
+Chaetostoma pearsei	VTO_0059993
+Astroblepus guentheri	VTO_0060643
+Dasyloricaria latiura	VTO_0060317
+Rhamdella cainguae	VTO_0060932
+Dasyloricaria capetensis	VTO_0060316
+Chaetostoma leucomelas	VTO_0059992
+Megalonema orixanthum	VTO_0059568
+Megalonema pauciradiatum	VTO_0059569
+Gogo atratus	VTO_0059562
+Gogo ornatus	VTO_0059563
+Ancharius griseus	VTO_0059560
+Ancharius fuscus	VTO_0059561
+Bergiaria platana	VTO_0059566
+Zungaro luetkeni	VTO_0059567
+Gogo brevibarbis	VTO_0059564
+Iheringichthys megalops	VTO_0059565
+Imparfinis spurrellii	VTO_0061000
+Chaetostoma taczanowskii	VTO_0059991
+Cetopsorhamdia filamentosa	VTO_0060796
+Aspidoras spilotus	VTO_0035207
+Lasiancistrus sp. (Armbruster 2004)	VTO_0060311
+Aspidoras taurus	VTO_0035209
+Pseudobagarius macronemus	VTO_0061330
+Pareutropius longifilis	VTO_0059698
+Pareutropius mandevillei	VTO_0059699
+Clarias planiceps	VTO_0059694
+Uegitglanis	VTO_0059695
+Uegitglanis zammaranoi	VTO_0059696
+Pareutropius buffei	VTO_0059697
+Clarias batu	VTO_0059690
+Clarias albopunctatus	VTO_0059691
+Clarias pseudoleiacanthus	VTO_0059692
+Ancistrus salgadae	VTO_0059952
+Orinocodoras sp. (Royero 1999)	VTO_0060785
+Bunocephalus n. sp. 3 (Friel 1994)	VTO_0059368
+Bunocephalus sp. (Friel 1994)	VTO_0059369
+Phenacorhamdia boliviana	VTO_0060949
+Bunocephalus colombianus	VTO_0059364
+Bunocephalus sp. (de Pinna 1993)	VTO_0059365
+Bunocephalus knerii	VTO_0059366
+Bunocephalus n. sp. 1 (Friel 1994)	VTO_0059367
+Bunocephalus sp. 2 (Chen 1994)	VTO_0059360
+Bunocephalus cf. knerii (Friel 1994)	VTO_0059361
+Bunocephalus doriae	VTO_0059362
+Bunocephalus amaurus	VTO_0059363
+Corydoras ellisae	VTO_0035331
+Corydoras elegans	VTO_0035330
+Corydoras ephippifer	VTO_0035332
+Corydoras trilineatus	VTO_0035334
+Corydoras stenocephalus	VTO_0035339
+Chaetostoma patiae	VTO_0059996
+Zaireichthys mandevillei	VTO_0061213
+Zaireichthys camerunensis	VTO_0061212
+Zaireichthys brevis	VTO_0061211
+Zaireichthys rhodesiensis	VTO_0061210
+Psammphiletria delicata	VTO_0061217
+Pimelodella modestus	VTO_0060861
+Psammphiletria	VTO_0061215
+Zaireichthys sp. B (Vigliotta 2008)	VTO_0061214
+Trachyglanis intermedius	VTO_0061219
+Trachyglanis	VTO_0061218
+Hemibagrus peguensis	VTO_0059392
+Silvinichthys	VTO_0061699
+Eremophilus	VTO_0061697
+Glaphyropoma spinosum	VTO_0061696
+Glaphyropoma rodriguesi	VTO_0061695
+Glaphyropoma	VTO_0061694
+Parauchenoglanis ngamensis	VTO_0061448
+Stenolicmus sarmientoi	VTO_0061691
+Stenolicmus	VTO_0061690
+Notarius bonillai	VTO_0059742
+Notarius quadriscutis	VTO_0059743
+Pardiglanis	VTO_0059212
+Xyliphius melanopterus	VTO_0059330
+Notarius phrygiatus	VTO_0059746
+Notarius rugispinis	VTO_0059747
+Chrysichthys rueppelli	VTO_0059216
+Trichomycterus pradensis	VTO_0061508
+Chrysichthys longidorsalis	VTO_0059218
+Leiocassis longibarbus	VTO_0059489
+Pygidianops eigenmanni	VTO_0061505
+Pygidianops magoi	VTO_0061504
+Pygidianops	VTO_0061503
+Noturus trautmani	VTO_0061502
+Trogloglanis pattersoni	VTO_0061501
+Trogloglanis	VTO_0061500
+Corydoras pastazensis	VTO_0035269
+Xyliphius barbatus	VTO_0059334
+Chaetostoma sericeum	VTO_0059988
+Chaetostoma changae	VTO_0059989
+Pseudobagarius similis	VTO_0061325
+Pseudobagarius sinensis	VTO_0061324
+Pseudobagarius	VTO_0061322
+Acrochordonichthys mahakamensis	VTO_0061321
+Notoglanidium walkeri	VTO_0061443
+Ricola	VTO_0059981
+Ricola macrops	VTO_0059982
+Chaetostoma palmeri	VTO_0059984
+Notoglanidium	VTO_0061440
+Chaetostoma microps	VTO_0059986
+Pseudobagarius hardmani	VTO_0061328
+Leiocassis sp. (Mo 1991)	VTO_0059486
+Mystus abbreviatus	VTO_0059481
+Trichomycterus chungaraensis	VTO_0061549
+Mystus carcio	VTO_0059480
+Parauchenoglanis pantherinus	VTO_0061444
+Erethistes serratus	VTO_0061079
+Mystus punctifer	VTO_0059482
+Hypostomus microstomus	VTO_0036904
+Synodontis aterrima	VTO_0061771
+Glyptothorax housei	VTO_0061039
+Erethistes sp. (de Pinna 1996)	VTO_0061078
+Glyptothorax manipurensis	VTO_0061033
+Glyptothorax trewavasae	VTO_0061032
+Glyptothorax pectinopterus	VTO_0061031
+Glyptothorax steindachneri	VTO_0061030
+Glyptothorax nelsoni	VTO_0061035
+Glyptothorax sykesi	VTO_0061034
+Pareuchiloglanis rhabdurus	VTO_0061099
+Typhlobelus lundbergi	VTO_0061714
+Arius manillensis	VTO_0035810
+Pseudoplatystoma orinocoense	VTO_0036322
+Akysis sp. 3 (de Pinna 1996)	VTO_0061301
+Arius venosus	VTO_0035812
+Tridensimilis venezuelae	VTO_0061652
+Ochmacanthus flabelliferus	VTO_0061718
+Exallodontus	VTO_0036349
+Aguarunichthys inpai	VTO_0036348
+Clarias microstomus	VTO_0059665
+Ochmacanthus reinhardtii	VTO_0061719
+Isbrueckerichthys calvus	VTO_0037160
+Akysis microps	VTO_0061305
+Aguarunichthys	VTO_0036347
+Duopalatinus peruanus	VTO_0036346
+Acrochordonichthys guttatus	VTO_0061320
+Rineloricaria microlepidota	VTO_0059806
+Panaque sp. (Friel 1994)	VTO_0060126
+Pseudolithoxus nicoi	VTO_0060127
+Panaque bathyphilus	VTO_0060124
+Panaque sp. (de Pinna 1993)	VTO_0060125
+Pareiorhina sp. (Armbruster 2004)	VTO_0060122
+Panaque suttonorum	VTO_0060123
+Hemiloricaria	VTO_0060120
+Pareiorhina sp. (Britto 2003)	VTO_0060121
+Pseudoplatystoma metaense	VTO_0036320
+Pseudolithoxus anthrax	VTO_0060128
+Baryancistrus beggini	VTO_0060129
+Otothyris lophophanes	VTO_0060116
+Trichomycterus emanueli	VTO_0061548
+Pseudepapterus gracilis	VTO_0060498
+Pseudepapterus hasemani	VTO_0060499
+Pseudepapterus cucuhyensis	VTO_0060497
+Entomocorus melaphareus	VTO_0060494
+Entomocorus sp. (de Pinna 1993)	VTO_0060495
+Entomocorus radiosus	VTO_0060492
+Entomocorus n. sp. (Royero 1999)	VTO_0060493
+Entomocorus benjamini	VTO_0060490
+Entomocorus gameroi	VTO_0060491
+Glyptothorax deqinensis	VTO_0036585
+Chaetostoma thomsoni	VTO_0060018
+Chaetostoma yurubiense	VTO_0060019
+Chaetostoma nudirostre	VTO_0060012
+Paraloricaria	VTO_0060030
+Chaetostoma dermorhynchum	VTO_0060016
+Chaetostomus sp. (Britto 2003)	VTO_0060017
+Chaetostoma breve	VTO_0060014
+Chaetostoma sp. (Friel 1994)	VTO_0060015
+Synodontis dorsomaculata	VTO_0061802
+Peckoltia furcata	VTO_0060272
+Peckoltia filicaudata	VTO_0060273
+Peckoltia sp. 1 (Armbruster 2004)	VTO_0060270
+Peckoltia braueri	VTO_0060271
+Peckoltia snethlageae	VTO_0060277
+Peckoltia caenosa	VTO_0060274
+Peckoltia arenaria	VTO_0060275
+Hemileiocassis panjang	VTO_0059424
+Peckoltia bachi	VTO_0060278
+Corymbophanes andersoni	VTO_0060279
+Synodontis sp. (Vigliotta 2008)	VTO_0061803
+Nemadoras leporhinus	VTO_0060782
+Nemadoras humeralis	VTO_0060783
+Merodoras	VTO_0060780
+Merodoras nheco	VTO_0060781
+Wertheimeria	VTO_0060786
+Wertheimeria maculata	VTO_0060787
+Nemadoras elongatus	VTO_0060784
+Lithoxus	VTO_0037349
+Astrodoras	VTO_0060788
+Peckoltia cavatica	VTO_0037342
+Megalancistrus	VTO_0037343
+Microglanis zonatus	VTO_0059289
+Paraloricaria vetula	VTO_0060032
+Pareiorhaphis garbei	VTO_0037184
+Astroblepus pirrensis	VTO_0060658
+Astroblepus orientalis	VTO_0060659
+Oligancistrus	VTO_0060308
+Oligancistrus punctatissimus	VTO_0060309
+Hypoptopoma thoracatum	VTO_0060306
+Hypoptopoma sp. (Armbruster 2004)	VTO_0060307
+Hypoptopoma psilogaster	VTO_0060304
+Hypoptopoma joberti	VTO_0060305
+Hypoptopoma sp. (Britto 2003)	VTO_0060302
+Astroblepus regani	VTO_0060651
+Macrotocinclus affinis	VTO_0060300
+Astroblepus stuebeli	VTO_0060653
+Cetopsidium roae	VTO_0060625
+Cetopsidium morenoi	VTO_0060624
+Cetopsidium orientale	VTO_0060627
+Pimelodella elongata	VTO_0060874
+Pimelodella steindachneri	VTO_0060875
+Pimelodella harttii	VTO_0060876
+Pimelodella eutaenia	VTO_0060877
+Pimelodella linami	VTO_0060870
+Pimelodella yuncensis	VTO_0060871
+Pimelodella gracilis	VTO_0060872
+Pimelodella roccae	VTO_0060873
+Cetopsis amphiloxa	VTO_0060621
+Horiomyzon	VTO_0060878
+Horiomyzon retropinnatus	VTO_0060879
+Cetopsis fimbriata	VTO_0060620
+Hypostomus atropinnis	VTO_0060195
+Farlowella mariaelenae	VTO_0060340
+Epactionotus yasi	VTO_0060331
+Clarias lamottei	VTO_0059659
+Pseudobagarius filifer	VTO_0061329
+Hisonotus megaloplax	VTO_0036934
+Hypostomus plecostomus 1 (Armbruster 2004)	VTO_0060194
+Lithoxus surinamensis	VTO_0060035
+Pseudobagrus hoi	VTO_0059519
+Pseudobagrus medianalis	VTO_0059518
+Pseudobagrus trilineatus	VTO_0059517
+Pseudobagrus taiwanensis	VTO_0059516
+Pseudobagrus rendahli	VTO_0059515
+Pseudobagrus tenuifurcatus	VTO_0059514
+Pseudobagrus nitidus	VTO_0059513
+Pseudobagrus hwanghoensis	VTO_0059512
+Pseudobagrus wittenburgii	VTO_0059511
+Synodontis serpentis	VTO_0061789
+Dinotopterus jacksoni	VTO_0059655
+Cochlefelis insidiator	VTO_0059723
+Hypostomus lexi	VTO_0060193
+Hypostomus borellii	VTO_0060192
+Lithoxus boujardi	VTO_0060037
+Synodontis thamalakanensis	VTO_0061805
+Hisonotus chromodontus	VTO_0036933
+Hemileiocassis	VTO_0059423
+Hoplomyzon atrizona	VTO_0059350
+Hoplomyzon papillatus	VTO_0059353
+Bagrichthys hypselopterus	VTO_0059420
+Aspredo aspredo	VTO_0059355
+Aspredo	VTO_0059354
+Bunocephalus sp. (Mo 1991)	VTO_0059357
+Bunocephalus larai	VTO_0059356
+Bunocephalus sp. (de Pinna 1996)	VTO_0059359
+Bunocephalus chamaizelus	VTO_0059358
+Bagrus caeruleus	VTO_0059429
+Corydoras filamentosus	VTO_0035326
+Corydoras fowleri	VTO_0035327
+Corydoras cruziensis	VTO_0035324
+Corydoras eques	VTO_0035325
+Corydoras coppenamensis	VTO_0035322
+Corydoras coriatae	VTO_0035323
+Corydoras diphyes	VTO_0035320
+Corydoras copei	VTO_0035321
+Kronichthys sp. 1 (Armbruster 2004)	VTO_0060039
+Corydoras garbei	VTO_0035328
+Corydoras duplicareus	VTO_0035329
+Doumea thysi	VTO_0061200
+Doumea typica	VTO_0061201
+Doumea gracila	VTO_0061202
+Zaireichthys flavomaculatus	VTO_0061203
+Zaireichthys compactus	VTO_0061204
+Zaireichthys dorae	VTO_0061205
+Zaireichthys rotundiceps	VTO_0061207
+Zaireichthys sp. A (Vigliotta 2008)	VTO_0061208
+Zaireichthys heterurus	VTO_0061209
+Microglanis variegatus	VTO_0059288
+Trichomycterus brasiliensis	VTO_0036491
+Ammoglanis diaphanus	VTO_0061688
+Ammoglanis pulex	VTO_0061689
+Miuroglanis	VTO_0061684
+Miuroglanis platycephalus	VTO_0061685
+Ammoglanis	VTO_0061686
+Ammoglanis amapaensis	VTO_0061687
+Ituglanis paraguassuensis	VTO_0061680
+Ituglanis amazonicus	VTO_0061681
+Ituglanis nebulosus	VTO_0061682
+Ituglanis laticeps	VTO_0061683
+Hemiarius verrucosus	VTO_0059737
+Chrysichthys longibarbis	VTO_0059224
+Chrysichthys habereri	VTO_0059227
+Cathorops festae	VTO_0059734
+Trichomycterus cachiaensis	VTO_0061518
+Chrysichthys dageti	VTO_0059220
+Aspidoras menezesi	VTO_0061352
+Bagrus orientalis	VTO_0059428
+Aspidoras depinnai	VTO_0035212
+Aspidoras albater	VTO_0035210
+Aspidoras eurycephalus	VTO_0035211
+Chrysichthys wagenaari	VTO_0059229
+Batrachocephalus mino	VTO_0059739
+Batrachocephalus	VTO_0059738
+Clarias anfractus	VTO_0059666
+Brachyrhamdia heteropleura	VTO_0061009
+Cetopsorhamdia sp. n. C (Bockmann 1998)	VTO_0060794
+Pseudobagarius pseudobagarius	VTO_0061334
+Pseudobagarius inermis	VTO_0061331
+Schilbe banguelensis	VTO_0061464
+Cranoglanis caolangensis	VTO_0061338
+Cranoglanis henrici	VTO_0061339
+Heptapterus sympterygium	VTO_0035639
+Chaetostoma milesi	VTO_0060022
+Chaetostoma jegui	VTO_0060021
+Farlowella gracilis	VTO_0060349
+Cetopsorhamdia iheringi	VTO_0035634
+Notoglanidium pallidum	VTO_0061442
+Clariallabes teugelsi	VTO_0059648
+Brachyrhamdia marthae	VTO_0061013
+Lasiancistrus caucanus	VTO_0060314
+Clariallabes simeonsi	VTO_0059643
+Clariallabes uelensis	VTO_0059642
+Harttia trombetensis	VTO_0060093
+Clariallabes melas	VTO_0059640
+Clariallabes heterocephalus	VTO_0059647
+Clariallabes mutsindoziensis	VTO_0059646
+Clariallabes laticeps	VTO_0059645
+Clariallabes pietschmanni	VTO_0059644
+Hypostomus alatus	VTO_0036915
+Chaetostoma loborhynchos	VTO_0060024
+Hypostomus cochliodon	VTO_0036918
+Glyptothorax pallozonus	VTO_0061028
+Glyptothorax conirostris	VTO_0061029
+Sturisoma panamense	VTO_0060142
+Glyptothorax horai	VTO_0061020
+Glyptothorax anamalaiensis	VTO_0061021
+Glyptothorax lonah	VTO_0061022
+Glyptothorax prashadi	VTO_0061023
+Glyptothorax rugimentum	VTO_0061024
+Glyptothorax armeniacus	VTO_0061025
+Glyptothorax kashmirensis	VTO_0061026
+Glyptothorax kurdistanicus	VTO_0061027
+Plotosus limbatus	VTO_0060451
+Amblydoras monitor	VTO_0060791
+Tatia caxiuanensis	VTO_0060530
+Synodontis ricardoae	VTO_0061762
+Plotosus brevibarbus	VTO_0060454
+Hemiarius kessleri	VTO_0059744
+Sorubim cuspicaudus	VTO_0036359
+Luciopimelodus	VTO_0036353
+Exallodontus aguanai	VTO_0036350
+Iheringichthys	VTO_0036351
+Cheirocerus goeldii	VTO_0059614
+Olyra kempi	VTO_0059379
+Synodontis polyodon	VTO_0061760
+Rhamdella aymarae	VTO_0060931
+Harttia merevari	VTO_0060097
+Rhamdella gilli	VTO_0060930
+Clarias macromystax	VTO_0059693
+Rhamdella eriarcha	VTO_0060933
+Neosilurus gloveri	VTO_0060463
+Neosilurus sp. (Kailola 2004)	VTO_0060462
+Neosilurus brevidorsalis	VTO_0060461
+Neosilurus coatesi	VTO_0060460
+Porochilus meraukensis	VTO_0060467
+Neosilurus equinus	VTO_0060466
+Neosilurus sp. 1 (de Pinna 1993)	VTO_0060465
+Neosilurus gjellerupi	VTO_0060464
+Gladioglanis sp. A (Bockmann 1998)	VTO_0060935
+Paraplotosus	VTO_0060469
+Porochilus obbesi	VTO_0060468
+Cephalosilurus nigricaudus	VTO_0059280
+Gladioglanis anacanthus	VTO_0060934
+Hypostomus winzi	VTO_0060244
+Panaqolus	VTO_0060069
+Apistoloricaria laani	VTO_0060067
+Apistoloricaria listrorhinos	VTO_0060066
+Apistoloricaria condei	VTO_0060065
+Pseudacanthicus fordii	VTO_0060064
+Pseudacanthicus histrix	VTO_0060063
+Pseudacanthicus serratus	VTO_0060062
+Rhinelepis strigosa	VTO_0060061
+Hisonotus maculipinnis	VTO_0060060
+Hypostomus subcarinatus	VTO_0060207
+Hypostomus pseudohemiurus	VTO_0060206
+Hypostomus scabriceps	VTO_0060205
+Hypostomus chrysostiktos	VTO_0060204
+Hypostomus sp. round snout 1 (Armbruster 2004)	VTO_0060203
+Hypostomus sp. round snout 2 (Armbruster 2004)	VTO_0060202
+Hypostomus levis	VTO_0060201
+Hypostomus denticulatus	VTO_0060200
+Pseudopimelodus schultzi	VTO_0059286
+Hypostomus rondoni	VTO_0060209
+Hypostomus papariae	VTO_0060208
+Chaetostoma lepturum	VTO_0060023
+Aspidoras velites	VTO_0061358
+Sorubim trigonocephalus	VTO_0059615
+Astroblepus longiceps	VTO_0060661
+Astroblepus theresiae	VTO_0060660
+Astroblepus pholeter	VTO_0060663
+Astroblepus riberae	VTO_0060662
+Astroblepus brachycephalus	VTO_0060665
+Astroblepus retropinnus	VTO_0060664
+Astroblepus festae sp. 2 (Mo 1991)	VTO_0060666
+Astroblepus sp. (Schaefer 1990)	VTO_0060669
+Astroblepus nicefori	VTO_0060668
+Aspidoras rochai	VTO_0061359
+Pimelodella enochi	VTO_0060848
+Trachelyopterus lucenai	VTO_0060519
+Trachelyopterus albicrux	VTO_0060518
+Taubateia paraiba	VTO_9018658
+Taubateia	VTO_9018659
+Trachelyopterus amblops	VTO_0060513
+Trachelyopterus peloichthys	VTO_0060512
+Trachelyopterus leopardinus	VTO_0060511
+Trachelyopterus insignis	VTO_0060510
+Pimelodella hartwelli	VTO_0060845
+Trachelyopterus ceratophysus	VTO_0060516
+Cetopsorhamdia picklei	VTO_0060795
+Pimelodella howesi	VTO_0060846
+Astroblepus praeliorum	VTO_0060689
+Astroblepus mindoensis	VTO_0060688
+Astroblepus festae sp. 3 (Mo 1991)	VTO_0060683
+Astroblepus jurubidae	VTO_0060682
+Astroblepus supramollis	VTO_0060681
+Astroblepus chapmani	VTO_0060680
+Astroblepus chotae	VTO_0060687
+Astroblepus unifasciatus	VTO_0060686
+Astroblepus marmoratus	VTO_0060685
+Astroblepus sabalo	VTO_0060684
+Chiloglanis kalambo	VTO_0061920
+Chaetostoma tachiraense	VTO_0060020
+Oreoglanis sudarai	VTO_0061120
+Leporacanthicus joselimai	VTO_0059913
+Corydoras revelatus	VTO_9012902
+Parotocinclus amazonensis	VTO_0059912
+Trichomycterus landinga	VTO_0061606
+Chaetostoma aequinoctiale	VTO_0060027
+Parotocinclus minutus	VTO_0059910
+Pseudobagrus ransonnettii	VTO_0059508
+Pseudobagrus sinyanensis	VTO_0059509
+Pelteobagrus argentivittatus	VTO_0059504
+Pelteobagrus ussuriensis	VTO_0059505
+Pseudobagrus virgatus	VTO_0059506
+Pseudobagrus wangi	VTO_0059507
+Bagroides hirsutus	VTO_0059500
+Bagroides melapterus	VTO_0059501
+Pelteobagrus nudiceps	VTO_0059502
+Pelteobagrus tonkinensis	VTO_0059503
+Synodontis haugi	VTO_0061768
+Chaetostoma branickii	VTO_0060026
+Bagrus filamentosus	VTO_0035110
+Clarias magur	VTO_0059663
+Chaetostoma greeni	VTO_0060025
+Hypostomus garmani	VTO_0060236
+Hypostomus agna	VTO_0060237
+Corydoras polystictus	VTO_0035268
+Hypostomus pyrineusi	VTO_0060234
+Platystacus sp. (Mo 1991)	VTO_0059346
+Corydoras ornatus	VTO_0035292
+Ernstichthys megistus	VTO_0059344
+Ernstichthys anduzei	VTO_0059345
+Ernstichthys sp. (de Pinna 1993)	VTO_0059342
+Nanobagrus nebulosus	VTO_0059435
+Coreobagrus	VTO_0059436
+Corydoras nijsseni	VTO_0035293
+Coreobagrus ichikawai	VTO_0059438
+Coreobagrus okadai	VTO_0059439
+Farlowella hasemani	VTO_0060358
+Exastilithoxus fimbriatus	VTO_0059895
+Corydoras loxozonus	VTO_0035290
+Acanthobunocephalus nicoi	VTO_0059348
+Hoplomyzon cf. papillatus (Friel 1994)	VTO_0059349
+Hypostomus butantanis	VTO_0060230
+Corydoras negro	VTO_0035296
+Mastiglanis asopos	VTO_0060983
+Corydoras nanus	VTO_0035297
+Amphilius zairensis	VTO_0061235
+Amphilius lampei	VTO_0061234
+Amphilius jacksonii	VTO_0061236
+Leptoglanis sp. (de Pinna 1993)	VTO_0061230
+Corydoras narcissus	VTO_0035295
+Amphilius caudosignatus	VTO_0061239
+Amphilius opisthophthalmus	VTO_0061238
+Imparfinis mirini	VTO_0035664
+Chrysichthys brevibarbis	VTO_0059238
+Chrysichthys nyongensis	VTO_0059239
+Chrysichthys cranchii	VTO_0059232
+Chrysichthys punctatus	VTO_0059233
+Chrysichthys mabusi	VTO_0059230
+Chrysichthys levequei	VTO_0059231
+Chrysichthys polli	VTO_0059236
+Chrysichthys furcatus	VTO_0059237
+Chrysichthys ogooensis	VTO_0059234
+Chrysichthys platycephalus	VTO_0059235
+Trichomycterus auroguttatus	VTO_0061521
+Ariopsis guatemalensis	VTO_0059725
+Trichomycterus plumbeus	VTO_0061523
+Trichomycterus fassli	VTO_0061522
+Trichomycterus arleoi	VTO_0061525
+Nemapteryx bleekeri	VTO_0059721
+Cochlefelis burmanicus	VTO_0059722
+Trichomycterus pseudosilvinichthys	VTO_0061526
+Trichomycterus santanderensis	VTO_0061529
+Trichomycterus retropinnis	VTO_0061528
+Corydoras albolineatus	VTO_0035265
+Corydoras acutus	VTO_0035264
+Corydoras adolfoi	VTO_0035263
+Corydoras acrensis	VTO_0035262
+Corydoras axelrodi	VTO_0035261
+Corydoras aurofrenatus	VTO_0035260
+Parakysis anomalopteryx	VTO_0061309
+Parakysis verrucosus	VTO_0061308
+Glanapteryx niobium	VTO_0061659
+Glanapteryx	VTO_0061658
+Tridentopsis	VTO_0061653
+Akysis fontaneus	VTO_0061300
+Akysis sp. (Friel 1994)	VTO_0061303
+Tridensimilis	VTO_0061650
+Typhlobelus ternetzi	VTO_0061712
+Akysis pictus	VTO_0061304
+Parakysis notialis	VTO_0061307
+Parakysis hystriculus	VTO_0061306
+Dolichamphilius longiceps	VTO_0061257
+Hypostomus auroguttatus	VTO_0036920
+Amphilius pulcher	VTO_0061243
+Clarias leiacanthus	VTO_0059662
+Hypostomus coppenamensis	VTO_0060235
+Typhlobelus macromycterus	VTO_0061713
+Eremophilus mutisii	VTO_0061698
+Channallabes ogooensis	VTO_0059658
+Synodontis macrops	VTO_0061784
+Synodontis zanzibarica	VTO_0061787
+Synodontis matthesi	VTO_0061786
+Synodontis tanganyicae	VTO_0061781
+Synodontis sp. (de Pinna 1993)	VTO_0061780
+Synodontis voltae	VTO_0061782
+Dinotopterus foveolatus	VTO_0059650
+Dinotopterus loweae	VTO_0059651
+Dinotopterus filicibarbis	VTO_0059652
+Dinotopterus nyasensis	VTO_0059653
+Dinotopterus gigas	VTO_0059654
+Synodontis longirostris	VTO_0061788
+Dinotopterus atribranchus	VTO_0059656
+Channallabes teugelsi	VTO_0059657
+Malacoglanis gelatinosus	VTO_0061693
+Glyptothorax stocki	VTO_0061019
+Glyptothorax plectilis	VTO_0061018
+Glyptothorax sp. (Friel 1994)	VTO_0061015
+Glyptothorax chindwinica	VTO_0061014
+Glyptothorax laak	VTO_0061017
+Glyptothorax indicus	VTO_0061016
+Brachyrhamdia rambarrani	VTO_0061011
+Brachyrhamdia meesi	VTO_0061010
+Brachyrhamdia imitator	VTO_0061012
+Malapterurus leonensis	VTO_0061266
+Claroteidae	VTO_0059211
+Doiichthys	VTO_0059740
+Pardiglanis tarabinii	VTO_0059213
+Chiloglanis lufirae	VTO_0061914
+Corydoras oiapoquensis	VTO_0035294
+Chrysichthys okae	VTO_0059215
+Synodontis rufigiensis	VTO_0061813
+Eutropiichthys burmannicus	VTO_0061260
+Ancistrus formoso	VTO_0059922
+Ancistrus clementinae	VTO_0059966
+Nannoplecostomus	VTO_9046522
+Nannoplecostomus eleonorae	VTO_9046521
+Chrysichthys bocagii	VTO_0059217
+Chrysichthys acsiorum	VTO_0059219
+Pseudauchenipterus nodosus	VTO_0060505
+Notarius troschelii	VTO_0059748
+Synodontis omias	VTO_0061835
+Notarius osculus	VTO_0059749
+Ancistrus bolivianus	VTO_0059967
+Propimelodus sp. (Mo 1991)	VTO_0059610
+Ancistrus variolus	VTO_0059968
+Neosiluroides cooperensis	VTO_0036299
+Neosiluroides	VTO_0036298
+Gymnotocinclus	VTO_0036925
+Paraplotosus albilabris	VTO_0060470
+Paraplotosus muelleri	VTO_0060471
+Paraplotosus butleri	VTO_0060472
+Ancistrus piriformis	VTO_0059964
+Anodontiglanis dahli	VTO_0060474
+Tocantinsia	VTO_0060475
+Tocantinsia piresi	VTO_0060476
+Auchenipterus nuchalis	VTO_0060477
+Auchenipterus dentatus	VTO_0060478
+Auchenipterus brevior	VTO_0060479
+Ancistrus fulvus	VTO_0059965
+Panaqolus maccus	VTO_0060074
+Panaqolus dentex	VTO_0060075
+Megalancistrus sp. (Schaefer 1987)	VTO_0060076
+Megalancistrus barrae	VTO_0060077
+Panaqolus nocturnus	VTO_0060070
+Panaqolus purusiensis	VTO_0060071
+Panaqolus gnomus	VTO_0060072
+Panaqolus albomaculatus	VTO_0060073
+Rhizosomichthys totae	VTO_0061730
+Microcambeva	VTO_0061731
+Glyptothorax sp. (Chen 1994)	VTO_0061044
+Ancistrus martini	VTO_0059962
+Hypostomus taphorni	VTO_0060214
+Hypostomus fluviatilis	VTO_0060215
+Hypostomus plecostomus 2 (Armbruster 2004)	VTO_0060216
+Glyptothorax stolickae	VTO_0061045
+Hypostomus rhantos	VTO_0060210
+Hypostomus francisci	VTO_0060211
+Hypostomus variostictus	VTO_0060212
+Euchilichthys boulengeri	VTO_0036726
+Glyptothorax obscurus	VTO_0061042
+Hypostomus variipictus	VTO_0060218
+Hypostomus soniae	VTO_0060219
+Copionodon lianae	VTO_0061735
+Phractocephalus nassi	VTO_9020503
+Dekeyseria brachyura	VTO_0060078
+Copionodon pecten	VTO_0061737
+Ancistrus albihoai	VTO_0059923
+Ancistrus damasceni	VTO_0059963
+Dekeyseria amazonica	VTO_0060079
+Pseudobagarius nitidus	VTO_0061327
+Chiloglanis marlieri	VTO_0061911
+Rineloricaria formosa	VTO_0059825
+Pangasius krempfi	VTO_0036435
+Pangasius polyuranodon	VTO_0036434
+Astroblepus rengifoi	VTO_0060676
+Astroblepus sp. (de Pinna 1993)	VTO_0060677
+Astroblepus santanderensis	VTO_0060674
+Rineloricaria capitonia	VTO_0059824
+Astroblepus prenadillus	VTO_0060672
+Astroblepus sp. (Britto 2003)	VTO_0060673
+Chrysichthys longipinnis	VTO_0059226
+Astroblepus ubidiai	VTO_0060671
+Pseudobagarius alfredi	VTO_0061323
+Ancistrus malacops	VTO_0059960
+Astroblepus labialis	VTO_0060678
+Astroblepus longifilis	VTO_0060679
+Trachelyopterus sp. (de Pinna 1993)	VTO_0060508
+Trachelyopterus lacustris	VTO_0060509
+Chiloglanis trilobatus	VTO_0061912
+Rineloricaria cadeae	VTO_0059821
+Pimelodella megalura	VTO_0060858
+Pimelodella itapicuruensis	VTO_0060859
+Trachelyopterichthys	VTO_0060500
+Pimelodella martinezi	VTO_0060857
+Trachelyopterichthys anduzei	VTO_0060502
+Pimelodella megalops	VTO_0060855
+Pimelodella taeniophora	VTO_0060852
+Pimelodella kronei	VTO_0060853
+Pseudauchenipterus jequitinhonhae	VTO_0060506
+Pimelodella conquetaensis	VTO_0060851
+Astroblepus heterodon	VTO_0060698
+Hypancistrus debilittera	VTO_0059980
+Astroblepus rosei	VTO_0060690
+Astroblepus boulengeri	VTO_0060691
+Astroblepus vanceae	VTO_0060692
+Pterobunocephalus sp. (Friel 1994)	VTO_0059378
+Astroblepus phelpsi	VTO_0060695
+Astroblepus sp. (Fink and Fink 1981)	VTO_0060696
+Astroblepus peruanus	VTO_0060697
+Cteniloricaria maculata	VTO_0059871
+Chiloglanis macropterus	VTO_0061913
+Chaetostoma aburrensis	VTO_0059983
+Akysis manipurensis	VTO_0061284
+Hypancistrus contradens	VTO_0037258
+Chaetostoma machiquense	VTO_0059985
+Chaetostoma marmorescens	VTO_0059987
+Pseudobagrus gracilis	VTO_0059531
+Pseudobagrus pictus	VTO_0059530
+Pseudobagrus nubilosus	VTO_0059533
+Pseudobagrus eupogoides	VTO_0059532
+Batasio niger	VTO_0059535
+Pseudobagrus omeihensis	VTO_0059534
+Batasio macronotus	VTO_0059537
+Batasio procerus	VTO_0059536
+Batasio havmolleri	VTO_0059539
+Batasio merianiensis	VTO_0059538
+Chiloglanis cameronensis	VTO_0061915
+Parotocinclus spilurus	VTO_0059899
+Cnidoglanis sp. (Mo 1991)	VTO_0060447
+Pseudohemiodon devincenzii	VTO_0060404
+Ancistrus falconensis	VTO_0059920
+Phractura intermedia	VTO_0035596
+Mystus cineraceus	VTO_0059468
+Ancistrus sp. (Britz and Hoffman 2006)	VTO_0059959
+Hypostomus ventromaculatus	VTO_0060217
+Hisonotus depressicauda	VTO_0036943
+Propimelodus araguayae	VTO_0059612
+Mystus wolffii	VTO_0059466
+Farlowella curtirostra	VTO_0060359
+Hemibagrus fortis	VTO_0059405
+Hemibagrus vietnamicus	VTO_0059404
+Hemibagrus bongan	VTO_0059407
+Mystus fortis	VTO_0059406
+Hemibagrus variegatus	VTO_0059401
+Hemibagrus punctatus	VTO_0059400
+Hemibagrus spilopterus	VTO_0059402
+Arius macracanthus	VTO_0059759
+Hypostomus obtusirostris	VTO_0060213
+Hemibagrus planiceps	VTO_0059409
+Hemibagrus songdaensis	VTO_0059408
+Mystus canarensis	VTO_0059462
+Hypostomus heraldoi	VTO_0060256
+Planiloricaria sp. (Britto 2003)	VTO_0059872
+Farlowella altocorpus	VTO_0060357
+Farlowella sp. (Schaefer 1987)	VTO_0060356
+Hemibagrus imbrifer	VTO_0059398
+Hemibagrus caveatus	VTO_0059395
+Hemibagrus centralus	VTO_0059394
+Hemibagrus dongbacensis	VTO_0059397
+Hemibagrus menoda	VTO_0059396
+Hemibagrus chrysops	VTO_0059391
+Hemibagrus pluriradiatus	VTO_0059390
+Ituglanis guayaberensis	VTO_0061665
+Nemapteryx macronotacantha	VTO_0059719
+Neoarius latirostris	VTO_0059718
+Chrysichthys sp. 2 (de Pinna 1993)	VTO_0059249
+Chrysichthys delhezi	VTO_0059248
+Aspistor luniscutis	VTO_0059711
+Chrysichthys ornatus	VTO_0059246
+Chrysichthys teugelsi	VTO_0059245
+Potamarius grandoculis	VTO_0059712
+Chrysichthys praecox	VTO_0059243
+Chrysichthys johnelsi	VTO_0059242
+Chrysichthys stappersii	VTO_0059241
+Neoarius pectoralis	VTO_0059716
+Trichomycterus naipi	VTO_0061536
+Trichomycterus straminius	VTO_0061537
+Synodontis acanthomias	VTO_0061822
+Trichomycterus mondolfi	VTO_0061535
+Trichomycterus papilliferus	VTO_0061532
+Corydoras reynoldsi	VTO_0035279
+Trichomycterus pauciradiatus	VTO_0061530
+Trichomycterus stellatus	VTO_0061531
+Corydoras oxyrhynchus	VTO_0035274
+Corydoras osteocarus	VTO_0035275
+Corydoras schwartzi	VTO_0035276
+Corydoras robustus	VTO_0035277
+Corydoras paragua	VTO_0035270
+Synodontis depauwi	VTO_0061820
+Trichomycterus rivulatus	VTO_0061538
+Corydoras panda	VTO_0035273
+Henonemus intermedius	VTO_0061648
+Henonemus triacanthopomus	VTO_0061649
+Acrochordonichthys sp. (de Pinna 1993)	VTO_0061318
+Acrochordonichthys septentrionalis	VTO_0061319
+Acrochordonichthys falcifer	VTO_0061316
+Acrochordonichthys gyrinus	VTO_0061317
+Acrochordonichthys pachyderma	VTO_0061314
+Acrochordonichthys strigosus	VTO_0061315
+Acrochordonichthys ischnosoma	VTO_0061312
+Henonemus taxistigmus	VTO_0061645
+Henonemus macrops	VTO_0061646
+Henonemus sp. (Schaefer 1990)	VTO_0061647
+Hemiancistrus guahiborum	VTO_0059884
+Synodontis comoensis	VTO_0061821
+Synodontis orientalis	VTO_0061798
+Synodontis ornatipinnis	VTO_0061792
+Synodontis caudalis	VTO_0061793
+Synodontis melanoptera	VTO_0061790
+Synodontis annectens	VTO_0061791
+Synodontis ornatissima	VTO_0061796
+Synodontis koensis	VTO_0061797
+Synodontis longispinis	VTO_0061794
+Synodontis camelopardalis	VTO_0061795
+Hemiancistrus megacephalus	VTO_0059881
+Hemiancistrus meizospilos	VTO_0059880
+Hemiancistrus micrommatos	VTO_0059883
+Hemiancistrus megalopteryx	VTO_0059882
+Clarias cavernicola	VTO_0059669
+Clarias hilli	VTO_0059668
+Hemiancistrus sp. Brazil (Armbruster 2004)	VTO_0059887
+Hemiancistrus spilomma	VTO_0059886
+Trachyglanis minutus	VTO_0061222
+Trachyglanis ineac	VTO_0061223
+Trachyglanis sanghensis	VTO_0061220
+Trachyglanis sp. (de Pinna 1993)	VTO_0061221
+Clarias longior	VTO_0059661
+Tetracamphilius pectinatus	VTO_0061227
+Belonoglanis brieni	VTO_0061224
+Tetracamphilius	VTO_0061225
+Imparfinis sp. A (Bockmann 1998)	VTO_0061002
+Imparfinis sp. (de Pinna 1993)	VTO_0061003
+Loricariichthys sp. (Britto 2003)	VTO_0059869
+Imparfinis nemacheir	VTO_0061001
+Imparfinis sp. cf. minutus (Bockman 1998)	VTO_0061006
+Imparfinis pseudonemacheir	VTO_0061004
+Imparfinis piperatus	VTO_0061005
+Genus 12 sp. (Bockmann 1998)	VTO_0061008
+Loricariichthys sp. (Schaefer 1987)	VTO_0059860
+Loricariichthys nudirostris	VTO_0059866
+Loricariichthys ucayalensis	VTO_0059865
+Loricariichthys cashibo	VTO_0059864
+Dolichallabes	VTO_0035499
+Scobinancistrus aureatus	VTO_0060289
+Hemiancistrus fugleri	VTO_0059889
+Oreoglanis infulatus	VTO_0061131
+Synodontis smiti	VTO_0061824
+Trichomycterus regani	VTO_0061565
+Squaliforma phrixosoma	VTO_0060284
+Trichomycterus laucaensis	VTO_0061564
+Farlowella henriquei	VTO_0060363
+Hemiancistrus cerrado	VTO_0059888
+Batasio travancoria	VTO_0035188
+Clarias angolensis	VTO_0035532
+Trichomycterus mimonha	VTO_0061560
+Trichomycterus zonatus	VTO_0061515
+Glyptothorax strabonis	VTO_0061037
+Pareuchiloglanis songmaensis	VTO_0061108
+Glyptothorax jalalensis	VTO_0061036
+Synodontis bastiani	VTO_0061826
+Astroblepus whymperi	VTO_0060675
+Ameiurus sp. (de Pinna 1993)	VTO_0061487
+Hisonotus montanus	VTO_0036932
+Hypostomus varimaculosus	VTO_0060197
+Harttia carvalhoi	VTO_0037080
+Satan eurystomus	VTO_0061485
+Oloplotosus	VTO_0060443
+Rineloricaria pentamaculata	VTO_0037088
+Propimelodus eigenmanni	VTO_0059611
+Plotosus nhatrangensis	VTO_0060449
+Plotosus anguillaris	VTO_0060448
+Hypostomus simios	VTO_0060199
+Corydoras amapaensis	VTO_0035254
+Irvineia voltae	VTO_0061480
+Kronichthys sp. 2 (Armbruster 2004)	VTO_0060040
+Hemipsilichthys? (Armbruster 2004)	VTO_0060043
+Brochiloricaria macrodon	VTO_0060045
+Brochiloricaria	VTO_0060044
+Lamontichthys avacanoeiro	VTO_0060047
+Brochiloricaria chauliodon	VTO_0060046
+Lamontichthys filamentosus	VTO_0060049
+Lamontichthys parakana	VTO_0060048
+Ancistrus sp. (Britto 2003)	VTO_0059973
+Rineloricaria teffeana	VTO_0059803
+Brachyglanis nocturnus	VTO_0060981
+Pseudobagarius meridionalis	VTO_0061335
+Trachelyopterus teaguei	VTO_0060514
+Propimelodus caesius	VTO_0059613
+Ancistrus agostinhoi	VTO_0059969
+Ancistrus macrophthalmus	VTO_0059972
+Chaetostoma vasquezi	VTO_0060013
+Synodontis pulcher	VTO_0061827
+Pimelodella laurenti	VTO_0060856
+Rineloricaria aurata	VTO_0059802
+Trachelyopterichthys taeniatus	VTO_0060501
+Pimelodella pectinifer	VTO_0060854
+Pseudauchenipterus	VTO_0060503
+Tatia creutzbergi	VTO_0060539
+Tatia sp. (de Pinna 1993)	VTO_0060538
+Tatia brunnea	VTO_0060535
+Pseudauchenipterus affinis	VTO_0060504
+Tatia strigata	VTO_0060537
+Ancistrus lithurgicus	VTO_0059974
+Tatia neivai	VTO_0060531
+Batrochoglanis melanurus	VTO_0059308
+Tatia galaxias	VTO_0060533
+Tatia boemia	VTO_0060532
+Synodontis punctulata	VTO_0061838
+Ompok binotatus	VTO_0061962
+Pimelodella ophthalmica	VTO_0060850
+Trichomycterus caudofasciatus	VTO_0036496
+Pseudauchenipterus flavescens	VTO_0060507
+Astroblepus cyclopus	VTO_0060699
+Genus 12 (Bockmann 1998)	VTO_0061007
+Cinetodus conorhynchus	VTO_0059724
+Proloricaria	VTO_0037067
+Hypostomus bolivianus	VTO_0060229
+Microglanis sp. (de Pinna 1993)	VTO_0059302
+Imparfinis sp. B (Bockmann 1998)	VTO_0060999
+Ompok pinnatus	VTO_0061968
+Hypostomus mutucae	VTO_0060221
+Hypostomus dlouhyi	VTO_0060220
+Hypostomus roseopunctatus	VTO_0060223
+Hypostomus vermicularis	VTO_0060222
+Hypostomus hoplonites	VTO_0060225
+Hypostomus pantherinus	VTO_0060224
+Imparfinis guttatus	VTO_0060991
+Chasmocranus sp. (de Pinna 1993)	VTO_0060912
+Pareuchiloglanis brevicaudatus	VTO_0061101
+Pareiorhina carrancas	VTO_0037166
+Akysis clinatus	VTO_0061288
+Hypostomus cordovae	VTO_0060227
+Leptorhamdia essequibensis	VTO_0060885
+Chiloglanis reticulatus	VTO_0061900
+Pseudobagrus longirostris	VTO_0059526
+Oloplotosus mariae	VTO_0060444
+Pseudobagrus kaifenensis	VTO_0059524
+Pseudobagrus taphraphilus	VTO_0059525
+Pseudobagrus microps	VTO_0059522
+Pseudobagrus analis	VTO_0059523
+Pseudobagrus fui	VTO_0059520
+Pseudobagrus emarginatus	VTO_0059521
+Cruciglanis pacifici	VTO_0059305
+Pseudobagrus albomarginatus	VTO_0059528
+Pseudobagrus brachyrhabdion	VTO_0059529
+Astroblepus mariae	VTO_0060693
+Hypancistrus furunculus	VTO_0059979
+Akysis portellus	VTO_0061289
+Ariopsis assimilis	VTO_0059726
+Astroblepus micrescens	VTO_0060694
+Loricaria sp. (Schaefer 1987)	VTO_0059779
+Lepthoplosternum ucamara	VTO_0061414
+Hypancistrus lunaorum	VTO_0059978
+Ariopsis seemanni	VTO_0059727
+Duopalatinus	VTO_0036345
+Scleromystax sp. (Britto 2003)	VTO_0061416
+Brachyglanis melas	VTO_0060980
+Callichthys oibaensis	VTO_0061419
+Bagrichthys vaillantii	VTO_0059418
+Bagrichthys micranodus	VTO_0059419
+Acrochordonichthys chamaeleon	VTO_0061313
+Callichthys sp. (Mo 1991)	VTO_0061418
+Hemibagrus gracilis	VTO_0059412
+Hemibagrus baramensis	VTO_0059413
+Hemibagrus hongus	VTO_0059410
+Hemibagrus johorensis	VTO_0059411
+Bagrichthys majusculus	VTO_0059416
+Bagrichthys sp. 2 (de Pinna 1993)	VTO_0059417
+Hemibagrus olyroides	VTO_0059414
+Hemibagrus sabanus	VTO_0059415
+Pimelodella boschmai	VTO_0060849
+Nemapteryx caelatus	VTO_0059720
+Glyptothorax sausii	VTO_0061038
+Chiloglanis pojeri	VTO_0061886
+Malapterurus sp. (Vigliotta 2008)	VTO_0061265
+Corydoras leucomelas	VTO_0035310
+Ictalurus sp. (Vigliotta 2008)	VTO_0061499
+Rama	VTO_0059383
+Olyra horae	VTO_0059380
+Olyra burmanica	VTO_0059381
+Hemibagrus maydelli	VTO_0059386
+Hemibagrus camthuyensis	VTO_0059387
+Rama rama	VTO_0059384
+Hemibagrus furcatus	VTO_0059385
+Astephus calvus	VTO_0061491
+Astephus sp. (Lundberg 1992)	VTO_0061490
+Hemibagrus taybacensis	VTO_0059388
+Astephus antiquus	VTO_0061492
+Ictalurus australis	VTO_0061495
+Ictalurus sp. (Fink and Fink 1981)	VTO_0061494
+Ictalurus dugesii	VTO_0061497
+Ictalurus sp. (Mo 1991)	VTO_0061496
+Phreatobius	VTO_0035647
+Myoglanis	VTO_0035643
+Phreatobius dracunculus	VTO_0035649
+Phreatobius cisternarum	VTO_0035648
+Hypostomus sipaliwinii	VTO_0060245
+Hypostomus micromaculatus	VTO_0060226
+Gephyroglanis	VTO_0059258
+Gephyroglanis congicus	VTO_0059259
+Cryptarius daugueti	VTO_0059708
+Hemipimelodus	VTO_0059709
+Chrysichthys turkana	VTO_0059254
+Chrysichthys thysi	VTO_0059255
+Chrysichthys persimilis	VTO_0059256
+Chrysichthys grandis	VTO_0059257
+Chrysichthys brachynema	VTO_0059250
+Chrysichthys thonneri	VTO_0059251
+Chrysichthys sp. 1 (de Pinna 1993)	VTO_0059252
+Chrysichthys macropterus	VTO_0059253
+Synodontis laessoei	VTO_0061815
+Synodontis guttata	VTO_0061814
+Synodontis ruandae	VTO_0061816
+Synodontis marmorata	VTO_0061810
+Synodontis woleuensis	VTO_0061812
+Corydoras blochi	VTO_0035249
+Corydoras bilineatus	VTO_0035248
+Synodontis acanthoperca	VTO_0061819
+Malacoglanis	VTO_0061692
+Chiloglanis ruziziensis	VTO_0061885
+Ituglanis epikarsticus	VTO_0061669
+Ituglanis proops	VTO_0061679
+Ituglanis cahyensis	VTO_0061678
+Ituglanis metae	VTO_0061674
+Ituglanis eichorniarum	VTO_0061677
+Glanidium	VTO_0035025
+Ituglanis bambui	VTO_0061670
+Glanidium melanopterum	VTO_0035026
+Pseudopimelodus sp. 1 (Shibatta 1991)	VTO_0059285
+Pseudopimelodus sp. (de Pinna 1993)	VTO_0059284
+Ituglanis parahybae	VTO_0061675
+Synodontis manni	VTO_0061833
+Ictalurus ochoterenai	VTO_0061493
+Parotocinclus jimi	VTO_0059896
+Parotocinclus bahiensis	VTO_0059897
+Exastilithoxus hoedemani	VTO_0059894
+Exastilithoxus	VTO_0059892
+Exastilithoxus sp. (Armbruster 2004)	VTO_0059893
+Andersonia leptura	VTO_0061259
+Clarias nigricans	VTO_0059675
+Akysis varius	VTO_0061280
+Dolichamphilius brieni	VTO_0061256
+Dolichamphilius	VTO_0061255
+Amphilius nigricaudatus	VTO_0061254
+Amphilius sp. A (Vigliotta 2008)	VTO_0061253
+Amphilius kivuensis	VTO_0061252
+Parotocinclus sp. (Britto 2003)	VTO_0059898
+Amphilius sp. B (Vigliotta 2008)	VTO_0061250
+Corydoras caudimaculatus	VTO_0035241
+Pseudolaguvia kapuri	VTO_0061077
+Pseudolaguvia inornata	VTO_0061076
+Pseudolaguvia tenebricosa	VTO_0061075
+Pseudolaguvia tuberculata	VTO_0061074
+Pseudolaguvia muricata	VTO_0061073
+Pseudolaguvia flavida	VTO_0061072
+Pseudolaguvia ferruginea	VTO_0061071
+Coraglanis	VTO_0061070
+Hemiancistrus annectens	VTO_0059873
+Hemiancistrus wilsoni	VTO_0059874
+Hemiancistrus pankimpuju	VTO_0059876
+Amarginops	VTO_0059271
+Tetracamphilius angustifrons	VTO_0061228
+Synodontis alberti	VTO_0061831
+Cetopsorhamdia boquillae	VTO_0060797
+Corydoras cervinus	VTO_0035240
+Cathorops liropus	VTO_0059731
+Trichomycterus gorgona	VTO_0061571
+Chiloglanis disneyi	VTO_0061889
+Ancistrus aguaboensis	VTO_0059953
+Ituglanis passensis	VTO_0061676
+Ancistrus montanus	VTO_0059916
+Platynematichthys	VTO_0036381
+Pygidianops amphioxus	VTO_9046508
+Parotocinclus halbothi	VTO_9046504
+Netuma proxima	VTO_0059728
+Pareuchiloglanis longicauda	VTO_0061103
+Pareuchiloglanis prolixdorsalis	VTO_0061102
+Ancistrus brevifilis	VTO_0059915
+Pareuchiloglanis namdeensis	VTO_0061100
+Pareuchiloglanis myzostoma	VTO_0061106
+Pareuchiloglanis robustus	VTO_0061105
+Pareuchiloglanis sichuanensis	VTO_0061104
+Kryptopterus piperatus	VTO_0061973
+Synodontis lufirae	VTO_0061837
+Corydoras spilurus	VTO_0035341
+Corydoras burgessi	VTO_0035242
+Cathorops kailolae	VTO_0059729
+Rineloricaria felipponei	VTO_0059827
+Leporacanthicus galaxias	VTO_0059914
+Hypostomus kopeyaka	VTO_0060184
+Hypostomus sp. (de Pinna 1993)	VTO_0060186
+Hypostomus longiradiatus	VTO_0060187
+Hypostomus waiampi	VTO_0060180
+Hypostomus interruptus	VTO_0060181
+Hypostomus pusarum	VTO_0060182
+Pseudobagarius leucorhynchus	VTO_0061336
+Hypostomus niger	VTO_0060188
+Hypostomus tapijara	VTO_0060189
+Ituglanis herberti	VTO_0061673
+Hisonotus candombe	VTO_0060056
+Hisonotus leptochilus	VTO_0060057
+Pseudoloricaria sp. (Britto 2003)	VTO_0060054
+Hisonotus paulinus	VTO_0060055
+Pseudoloricaria	VTO_0060052
+Pseudoloricaria laeviuscula	VTO_0060053
+Lamontichthys llanero	VTO_0060050
+Lamontichthys maracaibero	VTO_0060051
+Akysis vespa	VTO_0061286
+Hisonotus depressinotus	VTO_0060058
+Hisonotus hungy	VTO_0060059
+Pseudepapterus	VTO_0060496
+Ituglanis mambai	VTO_0061672
+Steindachneridion punctatum	VTO_0059603
+Tetracamphilius notatus	VTO_0061229
+Synodontis melanosticta	VTO_0061834
+Hypophthalmus longifilis	VTO_0059602
+Corydoras bicolor	VTO_0035247
+Trichomycterus spegazzinii	VTO_0061527
+Trichomycterus bogotensis	VTO_0061576
+Akysis sp. 1 (Chen 1994)	VTO_0061287
+Arius harmandi	VTO_0059760
+Euristhmus microceps	VTO_0060441
+Arius malabaricus	VTO_0059761
+Arius arenarius	VTO_0059762
+Arius latiscutatus	VTO_0059763
+Arius brunellii	VTO_0059764
+Steindachneridion melanodermatum	VTO_0036416
+Pimelodus pohli	VTO_0036413
+Hoplomyzon n. sp. (Friel 1994)	VTO_0059352
+Neosilurus sp. 2 (de Pinna 1993)	VTO_0060458
+Neosilurus mollespiculum	VTO_0060459
+Arius sp. (Royero 1999)	VTO_0059766
+Plotosus papuensis	VTO_0060452
+Plotosus abbreviatus	VTO_0060453
+Plotosus fisadoha	VTO_0060450
+Ancistrus taunayi	VTO_0059943
+Neosilurus pseudospinosus	VTO_0060456
+Neosilurus idenburgi	VTO_0060457
+Tatia dunni	VTO_0060534
+Neosilurus novaeguineae	VTO_0060455
+Trachycorystes	VTO_0060522
+Trachycorystes sp. (de Pinna 1993)	VTO_0060523
+Tetranematichthys wallacei	VTO_0060520
+Tetranematichthys n. sp. (Royero 1999)	VTO_0060521
+Trachycorystes trachycorystes	VTO_0060526
+Tatia jaracatia	VTO_0060527
+Trachycorystes cratensis	VTO_0060524
+Trachycorystes obscurus	VTO_0060525
+Tatia aulopygia	VTO_0060528
+Tatia gyrina	VTO_0060529
+Harttia novalimensis	VTO_0037078
+Hypostomus unae	VTO_0060185
+Harttia gracilis	VTO_0037073
+Harttia kronei	VTO_0037074
+Harttia leiopleura	VTO_0037076
+Trichomycterus mirissumba	VTO_0061539
+Imparfinis sp. n. (Bockman 1998)	VTO_0060988
+Imparfinis pijpersi	VTO_0060989
+Hypostomus pagei	VTO_0060238
+Hypostomus ericae	VTO_0060239
+Myoglanis sp. (Bockmann 1998)	VTO_0060984
+Myoglanis aspredinoides	VTO_0060985
+Myoglanis koepckei	VTO_0060986
+Myoglanis potaroensis	VTO_0060987
+Hypostomus goyazensis	VTO_0060232
+Hypostomus faveolus	VTO_0060233
+Mastiglanis	VTO_0060982
+Hypostomus commersonii	VTO_0060231
+Hemiarius harmandi	VTO_0059736
+Reganella	VTO_0060390
+Chiloglanis paratus	VTO_0061901
+Microlepidogaster sp. (Britto 2003)	VTO_0060393
+Trichomycterus itacambirussu	VTO_0061577
+Microlepidogaster sp. (Schaefer 1991)	VTO_0060394
+Erethistoides infuscatus	VTO_0061064
+Crossoloricaria bahuaja	VTO_0060397
+Erethistoides pipri	VTO_0061065
+Euristhmus sandrae	VTO_0060440
+Erethistoides senkhiensis	VTO_0061066
+Gogangra laevis	VTO_0061067
+Rineloricaria zaina	VTO_0059849
+Chaetostoma stannii	VTO_0060010
+Nematogenys cuivi	VTO_9001377
+Erethistoides cavatura	VTO_0061062
+Erethistoides montana	VTO_0061063
+Rineloricaria lima	VTO_0059818
+Synodontis resupinata	VTO_0061836
+Cephalocassis manillensis	VTO_0059735
+Mystus bimaculatus	VTO_0059469
+Mystus nigriceps	VTO_0059467
+Leiocassis yeni	VTO_0059493
+Mystus armatus	VTO_0059465
+Mystus castaneus	VTO_0059464
+Mystus alasensis	VTO_0059463
+Austroglanis sp. (de Pinna 1993)	VTO_0061347
+Mystus rufescens	VTO_0059461
+Mystus ankutta	VTO_0059460
+Akysis sp. 1 (de Pinna 1996)	VTO_0061285
+Pseudohemiodon thorectes	VTO_0060401
+Rineloricaria caracasensis	VTO_0059846
+Microlepidogaster sp. (Armbruster 2004)	VTO_0060395
+Crossoloricaria sp. (Armbruster 2004)	VTO_0060400
+Pareiorhaphis regani	VTO_0060151
+Akysis vespertinus	VTO_0061299
+Pareiorhaphis stephanus	VTO_0060150
+Pseudohemiodon platycephalus	VTO_0060405
+Australoglanididae	VTO_0061342
+Eutropiichthys goongwaree	VTO_0061261
+Ancistrus latifrons	VTO_0059917
+Taunayia	VTO_0035658
+Limatulichthys sp. (Britto 2003)	VTO_0060407
+Astephus	VTO_0061488
+Astephus resimus	VTO_0061489
+Chasmocranus	VTO_0035653
+Satan	VTO_0061484
+Rhamdiopsis	VTO_0035651
+Siluranodon auritus	VTO_0061483
+Irvineia orientalis	VTO_0061481
+Cathorops belizensis	VTO_0059733
+Gephyroglanis gymnorhynchus	VTO_0059261
+Gephyroglanis habereri	VTO_0059260
+Synodontis iturii	VTO_0061808
+Synodontis punctifer	VTO_0061809
+Clarotes macrocephalus	VTO_0059265
+Clarotes bidorsalis	VTO_0059264
+Lophiobagrus cyclurus	VTO_0059267
+Lophiobagrus asperispinis	VTO_0059266
+Phyllonemus filinemus	VTO_0059269
+Lophiobagrus aquilus	VTO_0059268
+Synodontis sp. (Royero 1999)	VTO_0061800
+Synodontis caudovittata	VTO_0061801
+Synodontis tourei	VTO_0061806
+Synodontis macrostoma	VTO_0061807
+Synodontis fascipinna	VTO_0061804
+Cathorops laticeps	VTO_0059732
+Corydoras ambiacus	VTO_0035256
+Corydoras arcuatus	VTO_0035257
+Chiloglanis somereni	VTO_0061898
+Corydoras ourastigma	VTO_0035255
+Corydoras breei	VTO_0035252
+Corydoras brevirostris	VTO_0035253
+Corydoras bondi	VTO_0035251
+Platyglanis depierrei	VTO_0059263
+Corydoras atropersonatus	VTO_0035259
+Homodiaetus graciosa	VTO_0061662
+Arius danicus	VTO_9029640
+Glanapteryx anguilla	VTO_0061660
+Homodiaetus passarellii	VTO_0061661
+Ituglanis gracilior	VTO_0061666
+Ituglanis ramiroi	VTO_0061667
+Trachelyopterus coriaceus	VTO_0035038
+Pseudopimelodus sp. (Friel 1994)	VTO_0059283
+Cephalosilurus fowleri	VTO_0059282
+Ituglanis parkoi	VTO_0061668
+Tetranematichthys	VTO_0035032
+Hemipsilichthys sp. (Armbruster 2004)	VTO_0060042
+Kryptopterus paraschilbeides	VTO_0061978
+Peckoltia ucayalensis	VTO_0060276
+Platyglanis	VTO_0059262
+Amphilius kakrimensis	VTO_0061237
+Ancistrus claro	VTO_0059941
+Tatia meesi	VTO_0060536
+Cathorops higuchi	VTO_0059730
+Zungaropsis	VTO_0059607
+Hemisorubim sp. (de Pinna 1993)	VTO_0059606
+Steindachneridion amblyurum	VTO_0059605
+Steindachneridion doceanum	VTO_0059604
+Amphilius natalensis	VTO_0061248
+Amphilius dimonikensis	VTO_0061249
+Duopalatinus emarginatus	VTO_0059601
+Duopalatinus olallae	VTO_0059600
+Amphilius cryptobullatus	VTO_0061244
+Amphilius longirostris	VTO_0061246
+Amphilius mamonekenensis	VTO_0061247
+Amphilius lamani	VTO_0061240
+Amphilius uranoscopus	VTO_0061241
+Propimelodus	VTO_0059609
+Zungaropsis multimaculatus	VTO_0059608
+Micronema	VTO_0036136
+Cetopsidium pemon	VTO_0060622
+Rineloricaria tropeira	VTO_0059848
+Rineloricaria microlepidogaster	VTO_0059845
+Rineloricaria phoxocephala	VTO_0059844
+Rineloricaria catamarcensis	VTO_0059847
+Parachiloglanis	VTO_0061068
+Parachiloglanis hodgarti	VTO_0061069
+Rineloricaria hasemani	VTO_0059843
+Rineloricaria sp. (Britto 2003)	VTO_0059842
+Rineloricaria setepovos	VTO_0059813
+Hemibagrus chiemhoaensis	VTO_0059403
+Chiloglanis congicus	VTO_0061894
+Neoarius taylori	VTO_0059714
+Plicofollis magatensis	VTO_0059700
+
+The VTO taxa that has NCBI ids but are not found in OPenTree data file
+VTO_name	VTO_id	ncbi_id
+Pelteobagrus	VTO_0035173	175790
+Hypophthalmidae	VTO_0037370	31003
+Sciades platypogon	VTO_0059707	243717
+Olyridae	VTO_0036423	30999
