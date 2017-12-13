@@ -29,7 +29,7 @@ for lin in infi:
     if len(tnrs[u'results']) == 1:
         try:
         	ott_id = tnrs[u'results'][0][u'matches'][0][u'taxon'][u'ott_id']
-        except KeyError: u'taxon':
+        except KeyError:
         	sys.stderr.write("Requires running on V3 of the OpenTree apis! update peyotl config.")
         ofi.write("{},{},{}\n".format(VTO,taxname,ott_id))
 
