@@ -3,7 +3,7 @@
 from peyotl.api import APIWrapper
 
 
-infi = open("vtoalltaxa.txt")
+infi = open("VTO_taxa_without_ncbiids.txt")
 
 
 ofi = open('alltaxa_VTO_mapping.txt','w')
