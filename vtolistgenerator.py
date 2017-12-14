@@ -67,11 +67,17 @@ nd = nx.nodes(G)
 #     print namer[ln]
 #print taxarank
 
-print name['Siluriformes']
+print name['Chordata']
 ##extracting all the descendents for teleostei
-td =list(nx.descendants(G,name['Siluriformes']))
+td =list(nx.descendants(G,name['Chordata']))
+if 'Chordata' in td:
+    print 'yes'
+
+td.append(name['Chordata'])
 print 'total taxa in vto',len(td)
-print 'Number of taxa with ncbi ids:',len(vtncbi)
+#print 'Number of taxa with ncbi ids:',len(vtncbi)
+
+
 
 ########################## open tree data file processing########################################################################
 
@@ -156,6 +162,9 @@ print 'Number of taxa with NCBI ids:',len(taxawithncbi)
 print 'Number of taxa withou NCBI ids:',len(taxawithoutncbi)
 print 'Number of OT taxa without maching NCBI ids:',len(ottaxawithoutncbi)
 print ottaxawithoutncbi
+
+difference = set(vtncbi.keys())- set(taxawithncbi)
+print difference
 
 # file to save VTO taxa without NCBI ids
 wncbi = open('VTO_taxa_without_ncbiids.txt','wb+')
