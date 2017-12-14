@@ -21,7 +21,7 @@ _:{i} <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/
 _:{i} <http://www.w3.org/2002/07/owl#annotatedSource> <http://purl.obolibrary.org/obo/{vtoid}> .
 _:{i} <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> .
 _:{i} <http://www.w3.org/2002/07/owl#annotatedTarget> https://tree.opentreeoflife.org/taxonomy/browse?id={ottid}> .
-_:{i} <http://purl.org/dc/terms/description> "{match_type}" .'''
+_:{i} <http://purl.org/dc/terms/description> "{match_type}" .\n'''
 
 
 infi = open('VTO_to_OTT.csv','r') #Output the map from VTO to ott_id
